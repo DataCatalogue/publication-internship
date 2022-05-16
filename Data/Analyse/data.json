@@ -1,0 +1,29 @@
+{"data":[
+    {
+        "zoom": "60%",
+        "position": "50% 0%",
+        "html":"<h1>Les Catalogues de ventes vue par la base Rameau </h1><p> <a href='https://rameau.bnf.fr/informations/rameauenbref'>Rameau</a> est une liste d'autorité entretenus par Bibliothéque de France sous liscence ouverte. Elle rassemble ainsi un certains nombre de notice dans différent domaine afin de constitué une base de connaisance stardisé.Dans le cadre du projet DataCatalogue , il permet de comprend le context des document qui seront publié et ainsi analyser les sujets connexes du point de vue de cette base </p><p>Pour constitué cette cartographie conceptuelle. Nous avons récupéré les données avec <a href='https: //data.bnf.fr/sparql/'>endpoint SPARQL</a> dataBNF, le modèle utilise le standard <a href='https://www.w3.org/2004/02/skos/'>SKOS</a>. Nous avons donc capturé toutes les notices liées avec la propriété skos:related . Nous avons renouvelé l'opération pour arrivé à un niveau 4 à partir de l'opération précédente. Ainsi, nous avons constitué une table de nœud et de lien afin de spatialiser dans le logiciel <a href='https://gephi.org/'>Gephi</a>.<p>"
+    },
+
+        {
+            "zoom": "180%",
+            "position": "50% 35%",
+            "html":"<h1>Analyse des concept proche</h1> <p> Les catalogues de ventes sont une source importante pour les <a href='https: //venteantique.hypotheses.org/catalogues-de-vente'>historiens de l'art</a>, car il permet d'étudier la circulation des œuvres et de comprendre l'histoire de l'objet dans une collection. Il permet également de rendre compte de l'évolution du marché de l'art.</p>           <p>D'ailleurs, la visualisation nous illustre parfaitement cette relation, car on retrouve autour, proche de notre concept, des notices renvoyant à l'espace marchande des objets de vente. Ce qui est toute a fait logique, car la majorité des documents présente des objets mise en vente aux enchères avec des valeurs de ventes estimées.</p><p>Autour de ce centre, se dégagent deux pôles. Le premier autour de l'Écrit et le deuxième autour des artefacts </p>"
+        },
+    {
+        "zoom": "200%",
+        "position":"100% 5%",
+        "html":"<h1> Vente avec un rapport à l'écrit</h1> <p>Un premier bloc de concept se dégage autour de l'écrit qui correspond a une typologie de ventes. Par extention se démarque des thématique comme le livres, le manuscript ou des authographes qu'on peux illustré avec les catalogues suivants : <ul> <li>- article 1 </li> <li>- article 2 </li><li>- article 3 </li></ul> </p>"
+    },
+
+    {
+        "zoom": "100%",
+        "position": "50% 35%",
+        "html": "<h1> Vente avec un rapport aux artefact</h1> <p>Le second bloc se caractérise autour du théme des artefacts. Egalement  se dégage  des thémes autour des Art , archéologie et numinastique dont les catalogues suivants illustres :<ul> <li>- article 1 </li> <li>- article 2 </li><li>- article 3 </li></ul></p>"
+    },
+    {
+        "zoom": "60%",
+        "position": "50% 0%",
+        "html": "<h1>Conclusions </h1><p>On peux dire que la base Rameau est une sorte de reflet subjectif   de ce que sont les catalogues de ventes puis qu'il omet des typologies moins courantes de ventes comme de jouet ou de mobilier mais permet une bonne entrer en matiére dans la connaissances du domaine <p>"
+    }
+]}

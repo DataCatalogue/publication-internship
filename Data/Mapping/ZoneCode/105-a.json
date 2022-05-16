@@ -1,0 +1,48 @@
+[
+    {
+        "_105": {
+            "a": {"0":[
+                {"ListLabel": [
+                    {
+                        "d": "impression en gros caractère"
+                    },
+                    {
+                        "e": "journal "
+                    },
+                    {
+                        "f": "caractères Braille ou Moon"
+                    },
+                    {
+                        "g": "micro-impression"
+                    },
+                    {
+                        "h": "manuscrit"
+                    },
+                    {
+                        "i": "multimédia multisupport"
+                    },
+                    {
+                        "j": "impression en réduction"
+                    },
+                    {
+                        "r": "impression normale"
+                    },
+                    {
+                        "s": "ressource électronique"
+                    },
+                    {
+                        "t": "microforme"
+                    },
+                    {
+                        "z": "autres formes de présentation"
+                    }
+                ],
+                "start": 0,
+                "end": 0}]
+            
+            }
+        }
+        
+
+    }
+]

@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"> 
+ (:CSS style:) 
+<style>
+  .pie:hover text {
+    fill:goldenrod;
+  }
+  .pie:hover rect{
+    stroke:goldenrod;;
+    stroke-width:5
+  }
+</style>
+  <text x="50%" y="1%" text-anchor="middle">Répartition des langues par corpus</text>
+  <text x="0%" y="98%" fill="black">bnf</text>
+  <g class="bar" transform="translate(0 50)scale(1 0.9)">
+    <g class="pie">
+      <rect x="0%" y="0%" width="10%" height="0.0242600679281902%" style=" fill:rgb(0,0,0)"/>
+      <text x="10%" y="0%" font-size="12" fill="transparent">swe : 0.0242600679281902 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="0.0242600679281902%" width="10%" height="0.363901018922853%" style=" fill:rgb(0,14.166666666666666667,0)"/>
+      <text x="10%" y="0.0242600679281902%" font-size="12" fill="transparent">dut : 0.363901018922853 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="0.3881610868510432%" width="10%" height="0.0242600679281902%" style=" fill:rgb(0,28.333333333333333334,0)"/>
+      <text x="10%" y="0.3881610868510432%" font-size="12" fill="transparent">### : 0.0242600679281902 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="0.4124211547792334%" width="10%" height="0.0242600679281902%" style=" fill:rgb(0,42.500000000000000001,0)"/>
+      <text x="10%" y="0.4124211547792334%" font-size="12" fill="transparent">chi : 0.0242600679281902 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="0.4366812227074236%" width="10%" height="0.6792819019893256%" style=" fill:rgb(0,56.666666666666666668,0)"/>
+      <text x="10%" y="0.4366812227074236%" font-size="12" fill="transparent">spa : 0.6792819019893256 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.1159631246967492%" width="10%" height="0.1698204754973314%" style=" fill:rgb(0,70.833333333333333335,0)"/>
+      <text x="10%" y="1.1159631246967492%" font-size="12" fill="transparent">mul : 0.1698204754973314 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.2857836001940806%" width="10%" height="0.0970402717127608%" style=" fill:rgb(0,85.000000000000000002,0)"/>
+      <text x="10%" y="1.2857836001940806%" font-size="12" fill="transparent">heb : 0.0970402717127608 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.3828238719068414%" width="10%" height="0.0485201358563804%" style=" fill:rgb(0,99.166666666666666669,0)"/>
+      <text x="10%" y="1.3828238719068414%" font-size="12" fill="transparent">jpn : 0.0485201358563804 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.4313440077632218%" width="10%" height="0.0242600679281902%" style=" fill:rgb(0,113.333333333333333336,0)"/>
+      <text x="10%" y="1.4313440077632218%" font-size="12" fill="transparent">und : 0.0242600679281902 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.455604075691412%" width="10%" height="0.0242600679281902%" style=" fill:rgb(0,127.500000000000000003,0)"/>
+      <text x="10%" y="1.455604075691412%" font-size="12" fill="transparent">ara : 0.0242600679281902 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.4798641436196022%" width="10%" height="0.0485201358563804%" style=" fill:rgb(0,141.66666666666666667,0)"/>
+      <text x="10%" y="1.4798641436196022%" font-size="12" fill="transparent">rus : 0.0485201358563804 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.5283842794759826%" width="10%" height="0.0485201358563804%" style=" fill:rgb(0,155.833333333333333337,0)"/>
+      <text x="10%" y="1.5283842794759826%" font-size="12" fill="transparent">dan : 0.0485201358563804 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.576904415332363%" width="10%" height="0.0485201358563804%" style=" fill:rgb(0,170.000000000000000004,0)"/>
+      <text x="10%" y="1.576904415332363%" font-size="12" fill="transparent">por : 0.0485201358563804 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="1.6254245511887434%" width="10%" height="5.8466763706938379%" style=" fill:rgb(0,184.166666666666666671,0)"/>
+      <text x="10%" y="1.6254245511887434%" font-size="12" fill="transparent">ger : 5.8466763706938379 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="7.4721009218825813%" width="10%" height="0.7520621057738962%" style=" fill:rgb(0,198.333333333333333338,0)"/>
+      <text x="10%" y="7.4721009218825813%" font-size="12" fill="transparent">ita : 0.7520621057738962 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="8.2241630276564775%" width="10%" height="71.3003396409509947%" style=" fill:rgb(0,212.500000000000000005,0)"/>
+      <text x="10%" y="8.2241630276564775%" font-size="12" fill="transparent">fre : 71.3003396409509947 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="79.5245026686074722%" width="10%" height="20.4027171276079573%" style=" fill:rgb(0,226.666666666666666672,0)"/>
+      <text x="10%" y="79.5245026686074722%" font-size="12" fill="transparent">eng : 20.4027171276079573 %</text>
+    </g>
+    <g class="pie">
+      <rect x="0%" y="99.9272197962154295%" width="10%" height="0.0727802037845706%" style=" fill:rgb(0,240.833333333333333339,0)"/>
+      <text x="10%" y="99.9272197962154295%" font-size="12" fill="transparent">lat : 0.0727802037845706 %</text>
+    </g>
+  </g>
+  <text x="20%" y="98%" fill="black">inha</text>
+  <g class="bar" transform="translate(0 50)scale(1 0.9)">
+    <g class="pie">
+      <rect x="20%" y="0%" width="10%" height="0.0321681321037958%" style=" fill:rgb(0,0,0)"/>
+      <text x="30%" y="0%" font-size="12" fill="transparent">swe : 0.0321681321037958 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="0.0321681321037958%" width="10%" height="0.0214454214025306%" style=" fill:rgb(0,0,15)"/>
+      <text x="30%" y="0.0321681321037958%" font-size="12" fill="transparent">afh : 0.0214454214025306 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="0.0536135535063264%" width="10%" height="0.0965043963113875%" style=" fill:rgb(0,0,30)"/>
+      <text x="30%" y="0.0536135535063264%" font-size="12" fill="transparent">dut : 0.0965043963113875 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="0.1501179498177139%" width="10%" height="0.9435985417113446%" style=" fill:rgb(0,0,45)"/>
+      <text x="30%" y="0.1501179498177139%" font-size="12" fill="transparent">chi : 0.9435985417113446 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.0937164915290585%" width="10%" height="0.075058974908857%" style=" fill:rgb(0,0,60)"/>
+      <text x="30%" y="1.0937164915290585%" font-size="12" fill="transparent">spa : 0.075058974908857 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.1687754664379155%" width="10%" height="0.0428908428050611%" style=" fill:rgb(0,0,75)"/>
+      <text x="30%" y="1.1687754664379155%" font-size="12" fill="transparent">heb : 0.0428908428050611 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.2116663092429766%" width="10%" height="0.0107227107012653%" style=" fill:rgb(0,0,90)"/>
+      <text x="30%" y="1.2116663092429766%" font-size="12" fill="transparent">bos : 0.0107227107012653 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.2223890199442419%" width="10%" height="0.0536135535063264%" style=" fill:rgb(0,0,105)"/>
+      <text x="30%" y="1.2223890199442419%" font-size="12" fill="transparent">jpn : 0.0536135535063264 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.2760025734505683%" width="10%" height="0.0428908428050611%" style=" fill:rgb(0,0,120)"/>
+      <text x="30%" y="1.2760025734505683%" font-size="12" fill="transparent">afr : 0.0428908428050611 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.3188934162556294%" width="10%" height="0.0536135535063264%" style=" fill:rgb(0,0,135)"/>
+      <text x="30%" y="1.3188934162556294%" font-size="12" fill="transparent">kor : 0.0536135535063264 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.3725069697619558%" width="10%" height="0.1393952391164486%" style=" fill:rgb(0,0,150)"/>
+      <text x="30%" y="1.3725069697619558%" font-size="12" fill="transparent">rus : 0.1393952391164486 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.5119022088784044%" width="10%" height="0.0321681321037958%" style=" fill:rgb(0,0,165)"/>
+      <text x="30%" y="1.5119022088784044%" font-size="12" fill="transparent">vie : 0.0321681321037958 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.5440703409822002%" width="10%" height="0.0428908428050611%" style=" fill:rgb(0,0,180)"/>
+      <text x="30%" y="1.5440703409822002%" font-size="12" fill="transparent">por : 0.0428908428050611 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="1.5869611837872613%" width="10%" height="2.7128458074201158%" style=" fill:rgb(0,0,195)"/>
+      <text x="30%" y="1.5869611837872613%" font-size="12" fill="transparent">ger : 2.7128458074201158 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="4.2998069912073771%" width="10%" height="1.3081707055543641%" style=" fill:rgb(0,0,210)"/>
+      <text x="30%" y="4.2998069912073771%" font-size="12" fill="transparent">ita : 1.3081707055543641 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="5.6079776967617412%" width="10%" height="54.1711344627921939%" style=" fill:rgb(0,0,225)"/>
+      <text x="30%" y="5.6079776967617412%" font-size="12" fill="transparent">fre : 54.1711344627921939 %</text>
+    </g>
+    <g class="pie">
+      <rect x="20%" y="59.7791121595539351%" width="10%" height="40.2208878404460648%" style=" fill:rgb(0,0,240)"/>
+      <text x="30%" y="59.7791121595539351%" font-size="12" fill="transparent">eng : 40.2208878404460648 %</text>
+    </g>
+  </g>
+  <text x="40%" y="98%" fill="black">inha+bnf</text>
+  <g class="bar" transform="translate(0 50)scale(1 0.9)">
+    <g class="pie">
+      <rect x="40%" y="0%" width="10%" height="0.0297441998810232%" style=" fill:rgb(0,0,0)"/>
+      <text x="50%" y="0%" font-size="12" fill="transparent">swe : 0.0297441998810232 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="0.0297441998810232%" width="10%" height="0.0148720999405116%" style=" fill:rgb(11.086956521739130435,0,0)"/>
+      <text x="50%" y="0.0297441998810232%" font-size="12" fill="transparent">afh : 0.0148720999405116 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="0.0446162998215348%" width="10%" height="0.1784651992861392%" style=" fill:rgb(22.17391304347826087,0,0)"/>
+      <text x="50%" y="0.0446162998215348%" font-size="12" fill="transparent">dut : 0.1784651992861392 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="0.223081499107674%" width="10%" height="0.0074360499702558%" style=" fill:rgb(33.260869565217391305,0,0)"/>
+      <text x="50%" y="0.223081499107674%" font-size="12" fill="transparent">### : 0.0074360499702558 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="0.2305175490779298%" width="10%" height="0.6618084473527662%" style=" fill:rgb(44.34782608695652174,0,0)"/>
+      <text x="50%" y="0.2305175490779298%" font-size="12" fill="transparent">chi : 0.6618084473527662 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="0.892325996430696%" width="10%" height="0.260261748958953%" style=" fill:rgb(55.434782608695652175,0,0)"/>
+      <text x="50%" y="0.892325996430696%" font-size="12" fill="transparent">spa : 0.260261748958953 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.152587745389649%" width="10%" height="0.0520523497917906%" style=" fill:rgb(66.52173913043478261,0,0)"/>
+      <text x="50%" y="1.152587745389649%" font-size="12" fill="transparent">mul : 0.0520523497917906 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.2046400951814396%" width="10%" height="0.0594883997620464%" style=" fill:rgb(77.608695652173913045,0,0)"/>
+      <text x="50%" y="1.2046400951814396%" font-size="12" fill="transparent">heb : 0.0594883997620464 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.264128494943486%" width="10%" height="0.0074360499702558%" style=" fill:rgb(88.69565217391304348,0,0)"/>
+      <text x="50%" y="1.264128494943486%" font-size="12" fill="transparent">bos : 0.0074360499702558 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.2715645449137418%" width="10%" height="0.0520523497917906%" style=" fill:rgb(99.782608695652173915,0,0)"/>
+      <text x="50%" y="1.2715645449137418%" font-size="12" fill="transparent">jpn : 0.0520523497917906 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.3236168947055324%" width="10%" height="0.0074360499702558%" style=" fill:rgb(110.86956521739130435,0,0)"/>
+      <text x="50%" y="1.3236168947055324%" font-size="12" fill="transparent">und : 0.0074360499702558 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.3310529446757882%" width="10%" height="0.0297441998810232%" style=" fill:rgb(121.956521739130434785,0,0)"/>
+      <text x="50%" y="1.3310529446757882%" font-size="12" fill="transparent">afr : 0.0297441998810232 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.3607971445568114%" width="10%" height="0.037180249851279%" style=" fill:rgb(133.04347826086956522,0,0)"/>
+      <text x="50%" y="1.3607971445568114%" font-size="12" fill="transparent">kor : 0.037180249851279 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.3979773944080904%" width="10%" height="0.0074360499702558%" style=" fill:rgb(144.130434782608695655,0,0)"/>
+      <text x="50%" y="1.3979773944080904%" font-size="12" fill="transparent">ara : 0.0074360499702558 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.4054134443783462%" width="10%" height="0.111540749553837%" style=" fill:rgb(155.21739130434782609,0,0)"/>
+      <text x="50%" y="1.4054134443783462%" font-size="12" fill="transparent">rus : 0.111540749553837 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.5169541939321832%" width="10%" height="0.0148720999405116%" style=" fill:rgb(166.304347826086956525,0,0)"/>
+      <text x="50%" y="1.5169541939321832%" font-size="12" fill="transparent">dan : 0.0148720999405116 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.5318262938726948%" width="10%" height="0.0223081499107674%" style=" fill:rgb(177.39130434782608696,0,0)"/>
+      <text x="50%" y="1.5318262938726948%" font-size="12" fill="transparent">vie : 0.0223081499107674 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.5541344437834622%" width="10%" height="0.0446162998215348%" style=" fill:rgb(188.478260869565217395,0,0)"/>
+      <text x="50%" y="1.5541344437834622%" font-size="12" fill="transparent">por : 0.0446162998215348 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="1.598750743604997%" width="10%" height="3.6734086853063653%" style=" fill:rgb(199.56521739130434783,0,0)"/>
+      <text x="50%" y="1.598750743604997%" font-size="12" fill="transparent">ger : 3.6734086853063653 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="5.2721594289113623%" width="10%" height="1.1377156454491374%" style=" fill:rgb(210.652173913043478265,0,0)"/>
+      <text x="50%" y="5.2721594289113623%" font-size="12" fill="transparent">ita : 1.1377156454491374 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="6.4098750743604997%" width="10%" height="59.4214753123140988%" style=" fill:rgb(221.7391304347826087,0,0)"/>
+      <text x="50%" y="6.4098750743604997%" font-size="12" fill="transparent">fre : 59.4214753123140988 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="65.8313503866745985%" width="10%" height="34.1463414634146341%" style=" fill:rgb(232.826086956521739135,0,0)"/>
+      <text x="50%" y="65.8313503866745985%" font-size="12" fill="transparent">eng : 34.1463414634146341 %</text>
+    </g>
+    <g class="pie">
+      <rect x="40%" y="99.9776918500892326%" width="10%" height="0.0223081499107674%" style=" fill:rgb(243.91304347826086957,0,0)"/>
+      <text x="50%" y="99.9776918500892326%" font-size="12" fill="transparent">lat : 0.0223081499107674 %</text>
+    </g>
+  </g>
+  <text x="60%" y="98%" fill="black">inha+bnf</text>
+  <g class="bar" transform="translate(0 50)scale(1 0.9)">
+    <g class="pie">
+      <rect x="60%" y="0%" width="10%" height="0.1603849238171612%" style=" fill:rgb(0,0,0)"/>
+      <text x="70%" y="0%" font-size="12" fill="transparent">dut : 0.1603849238171612 %</text>
+    </g>
+    <g class="pie">
+      <rect x="60%" y="0.1603849238171612%" width="10%" height="0.0801924619085806%" style=" fill:rgb(31.875,0,31.875)"/>
+      <text x="70%" y="0.1603849238171612%" font-size="12" fill="transparent">mul : 0.0801924619085806 %</text>
+    </g>
+    <g class="pie">
+      <rect x="60%" y="0.2405773857257418%" width="10%" height="2.7265437048917402%" style=" fill:rgb(63.75,0,63.75)"/>
+      <text x="70%" y="0.2405773857257418%" font-size="12" fill="transparent">und : 2.7265437048917402 %</text>
+    </g>
+    <g class="pie">
+      <rect x="60%" y="2.967121090617482%" width="10%" height="10.8259823576583801%" style=" fill:rgb(95.625,0,95.625)"/>
+      <text x="70%" y="2.967121090617482%" font-size="12" fill="transparent">ger : 10.8259823576583801 %</text>
+    </g>
+    <g class="pie">
+      <rect x="60%" y="13.7931034482758621%" width="10%" height="4.731355252606255%" style=" fill:rgb(127.5,0,127.5)"/>
+      <text x="70%" y="13.7931034482758621%" font-size="12" fill="transparent">ita : 4.731355252606255 %</text>
+    </g>
+    <g class="pie">
+      <rect x="60%" y="18.5244587008821171%" width="10%" height="53.4081796311146752%" style=" fill:rgb(159.375,0,159.375)"/>
+      <text x="70%" y="18.5244587008821171%" font-size="12" fill="transparent">fre : 53.4081796311146752 %</text>
+    </g>
+    <g class="pie">
+      <rect x="60%" y="71.9326383319967923%" width="10%" height="27.8267842822774659%" style=" fill:rgb(191.25,0,191.25)"/>
+      <text x="70%" y="71.9326383319967923%" font-size="12" fill="transparent">eng : 27.8267842822774659 %</text>
+    </g>
+    <g class="pie">
+      <rect x="60%" y="99.7594226142742582%" width="10%" height="0.2405773857257418%" style=" fill:rgb(223.125,0,223.125)"/>
+      <text x="70%" y="99.7594226142742582%" font-size="12" fill="transparent">lat : 0.2405773857257418 %</text>
+    </g>
+  </g>
+</svg>
