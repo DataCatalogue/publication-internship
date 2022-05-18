@@ -1,0 +1,726 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <style>line{stroke:black}.legend rect{fill:white;opacity:0.8}</style>
+  <g>
+    <g>
+      <text class="GridX" x="0%" y="98%">2000</text>
+      <line x1="0%" y1="0%" x2="0%" y2="100%"/>
+      <text class="GridX" x="5%" y="98%">2001</text>
+      <line x1="5%" y1="0%" x2="5%" y2="100%"/>
+      <text class="GridX" x="10%" y="98%">2002</text>
+      <line x1="10%" y1="0%" x2="10%" y2="100%"/>
+      <text class="GridX" x="15%" y="98%">2003</text>
+      <line x1="15%" y1="0%" x2="15%" y2="100%"/>
+      <text class="GridX" x="20%" y="98%">2004</text>
+      <line x1="20%" y1="0%" x2="20%" y2="100%"/>
+      <text class="GridX" x="25%" y="98%">2005</text>
+      <line x1="25%" y1="0%" x2="25%" y2="100%"/>
+      <text class="GridX" x="30%" y="98%">2006</text>
+      <line x1="30%" y1="0%" x2="30%" y2="100%"/>
+      <text class="GridX" x="35%" y="98%">2007</text>
+      <line x1="35%" y1="0%" x2="35%" y2="100%"/>
+      <text class="GridX" x="40%" y="98%">2008</text>
+      <line x1="40%" y1="0%" x2="40%" y2="100%"/>
+      <text class="GridX" x="45%" y="98%">2009</text>
+      <line x1="45%" y1="0%" x2="45%" y2="100%"/>
+      <text class="GridX" x="50%" y="98%">2010</text>
+      <line x1="50%" y1="0%" x2="50%" y2="100%"/>
+      <text class="GridX" x="55%" y="98%">2011</text>
+      <line x1="55%" y1="0%" x2="55%" y2="100%"/>
+      <text class="GridX" x="60%" y="98%">2012</text>
+      <line x1="60%" y1="0%" x2="60%" y2="100%"/>
+      <text class="GridX" x="65%" y="98%">2013</text>
+      <line x1="65%" y1="0%" x2="65%" y2="100%"/>
+      <text class="GridX" x="70%" y="98%">2014</text>
+      <line x1="70%" y1="0%" x2="70%" y2="100%"/>
+      <text class="GridX" x="75%" y="98%">2015</text>
+      <line x1="75%" y1="0%" x2="75%" y2="100%"/>
+      <text class="GridX" x="80%" y="98%">2016</text>
+      <line x1="80%" y1="0%" x2="80%" y2="100%"/>
+      <text class="GridX" x="85%" y="98%">2017</text>
+      <line x1="85%" y1="0%" x2="85%" y2="100%"/>
+      <text class="GridX" x="90%" y="98%">2018</text>
+      <line x1="90%" y1="0%" x2="90%" y2="100%"/>
+      <text class="GridX" x="95%" y="98%">2019</text>
+      <line x1="95%" y1="0%" x2="95%" y2="100%"/>
+      <text class="GridX" x="100%" y="98%">2020</text>
+      <line x1="100%" y1="0%" x2="100%" y2="100%"/>
+    </g>
+    <g>
+      <text class="GridY" x="98%" y="100%">0</text>
+      <line x1="0%" y1="100%" x2="100%" y2="100%"/>
+    </g>
+  </g>
+  <defs>
+    <g id="Bnf">
+      <circle r="3" fill="red"/>
+    </g>
+    <g id="G">
+      <circle r="3" fill="green"/>
+    </g>
+    <g id="F">
+      <path d=" M15.0 0.0 4.635254915624212 14.265847744427303 -12.13525491562421 8.816778784387099 -12.135254915624213 -8.816778784387095 4.635254915624208 -14.265847744427305 Z"/>
+    </g>
+    <g id="bnfNUM">
+      <rect x="-5" y="-5" height="10" width="10" style="fill:magenta"/>
+    </g>
+  </defs>
+  <g>
+    <a href="https://www.google.fr/search?q=1730&amp;bnfNUM">
+      <use x="-1350%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1741&amp;bnfNUM">
+      <use x="-1295%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1743&amp;bnfNUM">
+      <use x="-1285%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1751&amp;bnfNUM">
+      <use x="-1245%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1755&amp;bnfNUM">
+      <use x="-1225%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1756&amp;bnfNUM">
+      <use x="-1220%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1757&amp;bnfNUM">
+      <use x="-1215%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1758&amp;bnfNUM">
+      <use x="-1210%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1760&amp;bnfNUM">
+      <use x="-1200%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1762&amp;bnfNUM">
+      <use x="-1190%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1765&amp;bnfNUM">
+      <use x="-1175%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1766&amp;bnfNUM">
+      <use x="-1170%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1767&amp;bnfNUM">
+      <use x="-1165%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1768&amp;bnfNUM">
+      <use x="-1160%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1769&amp;bnfNUM">
+      <use x="-1155%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1771&amp;bnfNUM">
+      <use x="-1145%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1772&amp;bnfNUM">
+      <use x="-1140%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1773&amp;bnfNUM">
+      <use x="-1135%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1774&amp;bnfNUM">
+      <use x="-1130%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1775&amp;bnfNUM">
+      <use x="-1125%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1776&amp;bnfNUM">
+      <use x="-1120%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1777&amp;bnfNUM">
+      <use x="-1115%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1778&amp;bnfNUM">
+      <use x="-1110%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1782&amp;bnfNUM">
+      <use x="-1090%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1783&amp;bnfNUM">
+      <use x="-1085%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1785&amp;bnfNUM">
+      <use x="-1075%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1787&amp;bnfNUM">
+      <use x="-1065%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1788&amp;bnfNUM">
+      <use x="-1060%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1796&amp;bnfNUM">
+      <use x="-1020%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1798&amp;bnfNUM">
+      <use x="-1010%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1799&amp;bnfNUM">
+      <use x="-1005%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1807&amp;bnfNUM">
+      <use x="-965%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1811&amp;bnfNUM">
+      <use x="-945%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1812&amp;bnfNUM">
+      <use x="-940%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1815&amp;bnfNUM">
+      <use x="-925%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1818&amp;bnfNUM">
+      <use x="-910%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1819&amp;bnfNUM">
+      <use x="-905%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1820&amp;bnfNUM">
+      <use x="-900%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1821&amp;bnfNUM">
+      <use x="-895%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1822&amp;bnfNUM">
+      <use x="-890%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1823&amp;bnfNUM">
+      <use x="-885%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1824&amp;bnfNUM">
+      <use x="-880%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1826&amp;bnfNUM">
+      <use x="-870%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1829&amp;bnfNUM">
+      <use x="-855%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1830&amp;bnfNUM">
+      <use x="-850%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1831&amp;bnfNUM">
+      <use x="-845%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1833&amp;bnfNUM">
+      <use x="-835%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1834&amp;bnfNUM">
+      <use x="-830%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1836&amp;bnfNUM">
+      <use x="-820%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1837&amp;bnfNUM">
+      <use x="-815%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1838&amp;bnfNUM">
+      <use x="-810%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1839&amp;bnfNUM">
+      <use x="-805%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1840&amp;bnfNUM">
+      <use x="-800%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1841&amp;bnfNUM">
+      <use x="-795%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1842&amp;bnfNUM">
+      <use x="-790%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1843&amp;bnfNUM">
+      <use x="-785%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1844&amp;bnfNUM">
+      <use x="-780%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1846&amp;bnfNUM">
+      <use x="-770%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1847&amp;bnfNUM">
+      <use x="-765%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1848&amp;bnfNUM">
+      <use x="-760%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1850&amp;bnfNUM">
+      <use x="-750%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1851&amp;bnfNUM">
+      <use x="-745%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1852&amp;bnfNUM">
+      <use x="-740%" y="-66.66666666666666667%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1853&amp;bnfNUM">
+      <use x="-735%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1854&amp;bnfNUM">
+      <use x="-730%" y="-33.333333333333333336%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1855&amp;bnfNUM">
+      <use x="-725%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1856&amp;bnfNUM">
+      <use x="-720%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1857&amp;bnfNUM">
+      <use x="-715%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1858&amp;bnfNUM">
+      <use x="-710%" y="-83.333333333333333337%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1859&amp;bnfNUM">
+      <use x="-705%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1860&amp;bnfNUM">
+      <use x="-700%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1861&amp;bnfNUM">
+      <use x="-695%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1862&amp;bnfNUM">
+      <use x="-690%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1863&amp;bnfNUM">
+      <use x="-685%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1864&amp;bnfNUM">
+      <use x="-680%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1865&amp;bnfNUM">
+      <use x="-675%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1866&amp;bnfNUM">
+      <use x="-670%" y="-50.000000000000000003%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1867&amp;bnfNUM">
+      <use x="-665%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1868&amp;bnfNUM">
+      <use x="-660%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1869&amp;bnfNUM">
+      <use x="-655%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1870&amp;bnfNUM">
+      <use x="-650%" y="-66.66666666666666667%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1872&amp;bnfNUM">
+      <use x="-640%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1873&amp;bnfNUM">
+      <use x="-635%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1874&amp;bnfNUM">
+      <use x="-630%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1875&amp;bnfNUM">
+      <use x="-625%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1876&amp;bnfNUM">
+      <use x="-620%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1877&amp;bnfNUM">
+      <use x="-615%" y="-216.666666666666666673%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1878&amp;bnfNUM">
+      <use x="-610%" y="-100.000000000000000004%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1879&amp;bnfNUM">
+      <use x="-605%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1880&amp;bnfNUM">
+      <use x="-600%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1881&amp;bnfNUM">
+      <use x="-595%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1882&amp;bnfNUM">
+      <use x="-590%" y="-100.000000000000000004%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1883&amp;bnfNUM">
+      <use x="-585%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1884&amp;bnfNUM">
+      <use x="-580%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1885&amp;bnfNUM">
+      <use x="-575%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1886&amp;bnfNUM">
+      <use x="-570%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1887&amp;bnfNUM">
+      <use x="-565%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1888&amp;bnfNUM">
+      <use x="-560%" y="-133.333333333333333338%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1889&amp;bnfNUM">
+      <use x="-555%" y="-50.000000000000000003%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1890&amp;bnfNUM">
+      <use x="-550%" y="-116.666666666666666671%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1891&amp;bnfNUM">
+      <use x="-545%" y="-33.333333333333333336%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1892&amp;bnfNUM">
+      <use x="-540%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1893&amp;bnfNUM">
+      <use x="-535%" y="-116.666666666666666671%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1894&amp;bnfNUM">
+      <use x="-530%" y="-150.000000000000000005%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1895&amp;bnfNUM">
+      <use x="-525%" y="-233.33333333333333334%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1896&amp;bnfNUM">
+      <use x="-520%" y="-200.000000000000000006%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1897&amp;bnfNUM">
+      <use x="-515%" y="-100.000000000000000004%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1898&amp;bnfNUM">
+      <use x="-510%" y="-116.666666666666666671%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1899&amp;bnfNUM">
+      <use x="-505%" y="-83.333333333333333337%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1900&amp;bnfNUM">
+      <use x="-500%" y="-50.000000000000000003%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1901&amp;bnfNUM">
+      <use x="-495%" y="-133.333333333333333338%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1902&amp;bnfNUM">
+      <use x="-490%" y="-133.333333333333333338%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1903&amp;bnfNUM">
+      <use x="-485%" y="-66.66666666666666667%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1904&amp;bnfNUM">
+      <use x="-480%" y="-83.333333333333333337%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1905&amp;bnfNUM">
+      <use x="-475%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1906&amp;bnfNUM">
+      <use x="-470%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1907&amp;bnfNUM">
+      <use x="-465%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1908&amp;bnfNUM">
+      <use x="-460%" y="-33.333333333333333336%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1909&amp;bnfNUM">
+      <use x="-455%" y="-183.333333333333333339%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1910&amp;bnfNUM">
+      <use x="-450%" y="-100.000000000000000004%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1911&amp;bnfNUM">
+      <use x="-445%" y="-116.666666666666666671%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1912&amp;bnfNUM">
+      <use x="-440%" y="-133.333333333333333338%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1913&amp;bnfNUM">
+      <use x="-435%" y="-200.000000000000000006%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1914&amp;bnfNUM">
+      <use x="-430%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1918&amp;bnfNUM">
+      <use x="-410%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1921&amp;bnfNUM">
+      <use x="-395%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1922&amp;bnfNUM">
+      <use x="-390%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1923&amp;bnfNUM">
+      <use x="-385%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1924&amp;bnfNUM">
+      <use x="-380%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1925&amp;bnfNUM">
+      <use x="-375%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1926&amp;bnfNUM">
+      <use x="-370%" y="-50.000000000000000003%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1927&amp;bnfNUM">
+      <use x="-365%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1928&amp;bnfNUM">
+      <use x="-360%" y="-50.000000000000000003%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1929&amp;bnfNUM">
+      <use x="-355%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1930&amp;bnfNUM">
+      <use x="-350%" y="-66.66666666666666667%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1931&amp;bnfNUM">
+      <use x="-345%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1932&amp;bnfNUM">
+      <use x="-340%" y="-83.333333333333333337%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1933&amp;bnfNUM">
+      <use x="-335%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1934&amp;bnfNUM">
+      <use x="-330%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1935&amp;bnfNUM">
+      <use x="-325%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1936&amp;bnfNUM">
+      <use x="-320%" y="-83.333333333333333337%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1937&amp;bnfNUM">
+      <use x="-315%" y="-33.333333333333333336%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1938&amp;bnfNUM">
+      <use x="-310%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1939&amp;bnfNUM">
+      <use x="-305%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1940&amp;bnfNUM">
+      <use x="-300%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1941&amp;bnfNUM">
+      <use x="-295%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1942&amp;bnfNUM">
+      <use x="-290%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1943&amp;bnfNUM">
+      <use x="-285%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1948&amp;bnfNUM">
+      <use x="-260%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1949&amp;bnfNUM">
+      <use x="-255%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1950&amp;bnfNUM">
+      <use x="-250%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1951&amp;bnfNUM">
+      <use x="-245%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1952&amp;bnfNUM">
+      <use x="-240%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1953&amp;bnfNUM">
+      <use x="-235%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1954&amp;bnfNUM">
+      <use x="-230%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1955&amp;bnfNUM">
+      <use x="-225%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1956&amp;bnfNUM">
+      <use x="-220%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1957&amp;bnfNUM">
+      <use x="-215%" y="-66.66666666666666667%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1958&amp;bnfNUM">
+      <use x="-210%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1959&amp;bnfNUM">
+      <use x="-205%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1960&amp;bnfNUM">
+      <use x="-200%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1961&amp;bnfNUM">
+      <use x="-195%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1962&amp;bnfNUM">
+      <use x="-190%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1963&amp;bnfNUM">
+      <use x="-185%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1964&amp;bnfNUM">
+      <use x="-180%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1965&amp;bnfNUM">
+      <use x="-175%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1966&amp;bnfNUM">
+      <use x="-170%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1967&amp;bnfNUM">
+      <use x="-165%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1968&amp;bnfNUM">
+      <use x="-160%" y="-33.333333333333333336%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1969&amp;bnfNUM">
+      <use x="-155%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1970&amp;bnfNUM">
+      <use x="-150%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1971&amp;bnfNUM">
+      <use x="-145%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1972&amp;bnfNUM">
+      <use x="-140%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1973&amp;bnfNUM">
+      <use x="-135%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1974&amp;bnfNUM">
+      <use x="-130%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1975&amp;bnfNUM">
+      <use x="-125%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1976&amp;bnfNUM">
+      <use x="-120%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1977&amp;bnfNUM">
+      <use x="-115%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1978&amp;bnfNUM">
+      <use x="-110%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1979&amp;bnfNUM">
+      <use x="-105%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1980&amp;bnfNUM">
+      <use x="-100%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1981&amp;bnfNUM">
+      <use x="-95%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1982&amp;bnfNUM">
+      <use x="-90%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1985&amp;bnfNUM">
+      <use x="-75%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1986&amp;bnfNUM">
+      <use x="-70%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1987&amp;bnfNUM">
+      <use x="-65%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1988&amp;bnfNUM">
+      <use x="-60%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1989&amp;bnfNUM">
+      <use x="-55%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1990&amp;bnfNUM">
+      <use x="-50%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1991&amp;bnfNUM">
+      <use x="-45%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1992&amp;bnfNUM">
+      <use x="-40%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1993&amp;bnfNUM">
+      <use x="-35%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1994&amp;bnfNUM">
+      <use x="-30%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1995&amp;bnfNUM">
+      <use x="-25%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1996&amp;bnfNUM">
+      <use x="-20%" y="-33.333333333333333336%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1997&amp;bnfNUM">
+      <use x="-15%" y="-33.333333333333333336%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1998&amp;bnfNUM">
+      <use x="-10%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1999&amp;bnfNUM">
+      <use x="-5%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2000&amp;bnfNUM">
+      <use x="0%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2001&amp;bnfNUM">
+      <use x="5%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2002&amp;bnfNUM">
+      <use x="10%" y="-33.333333333333333336%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2003&amp;bnfNUM">
+      <use x="15%" y="83.333333333333333333%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2004&amp;bnfNUM">
+      <use x="20%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2005&amp;bnfNUM">
+      <use x="25%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2006&amp;bnfNUM">
+      <use x="30%" y="66.666666666666666666%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2007&amp;bnfNUM">
+      <use x="35%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2008&amp;bnfNUM">
+      <use x="40%" y="-100.000000000000000004%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2009&amp;bnfNUM">
+      <use x="45%" y="-50.000000000000000003%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2010&amp;bnfNUM">
+      <use x="50%" y="-83.333333333333333337%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2011&amp;bnfNUM">
+      <use x="55%" y="-16.666666666666666669%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2012&amp;bnfNUM">
+      <use x="60%" y="16.666666666666666665%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2013&amp;bnfNUM">
+      <use x="65%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2014&amp;bnfNUM">
+      <use x="70%" y="-0.000000000000000002%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2015&amp;bnfNUM">
+      <use x="75%" y="33.333333333333333332%" href="#bnfNUM"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2016&amp;bnfNUM">
+      <use x="80%" y="49.999999999999999999%" href="#bnfNUM"/>
+    </a>
+  </g>
+  <g class="legend">
+    <rect x="0%" y="0%" width="20%" height="25%"/>
+    <text x="1%" y="2.5%">Je suis un titre</text>
+    <use x="1%" y="8.75%" href="#Bnf"/>
+    <text x="3%" y="8.75%">Bnf</text>
+    <use x="1%" y="12.5%" href="#G"/>
+    <text x="3%" y="12.5%">G</text>
+    <use x="1%" y="16.25%" href="#F"/>
+    <text x="3%" y="16.25%">F</text>
+    <use x="1%" y="20%" href="#bnfNUM"/>
+    <text x="3%" y="20%">bnfNUM</text>
+  </g>
+</svg>

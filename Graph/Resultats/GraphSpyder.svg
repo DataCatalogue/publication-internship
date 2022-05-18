@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <style>
+   
+   .back{
+     fill:transparent;
+     stroke:black;
+     stroke-width:1;
+     stroke-dasharray:4;
+   }
+   text{
+     fill:black;
+     font-size:15 px;
+     stroke:transparent;
+     stroke-width:0;
+     }
+   #n100{
+     stroke-dasharray:0;
+   }
+   
+   </style>
+  <g class="back">
+    <path class="background" id="n25" d="M 337.5 300 323.3808675697025 329.3186805925511 291.6554649766382 336.55979670681836 266.2136674536593 316.2706402169084 266.2136674536593 283.7293597830916 291.6554649766382 263.44020329318164 323.3808675697025 270.6813194074489  Z"/>
+    <text class="LabelY" x="300" y="337.5">25 %</text>
+    <path class="background" id="n50" d="M 375 300 346.761735139405 358.63736118510224 283.3109299532764 373.1195934136368 232.42733490731857 332.54128043381684 232.42733490731857 267.45871956618316 283.3109299532764 226.88040658636322 346.761735139405 241.36263881489776  Z"/>
+    <text class="LabelY" x="300" y="375">50 %</text>
+    <path class="background" id="n75" d="M 412.5 300 370.14260270910756 387.95604177765335 274.96639492991466 409.67939012045514 198.64100236097786 348.8119206507253 198.64100236097784 251.18807934927472 274.9663949299146 190.32060987954486 370.1426027091075 212.04395822234665  Z"/>
+    <text class="LabelY" x="300" y="412.5">75 %</text>
+    <path class="background" id="n100" d="M 450 300 393.52347027881 417.2747223702045 266.62185990655286 446.23918682727356 164.85466981463713 365.08256086763373 164.85466981463713 234.9174391323663 266.6218599065528 153.76081317272644 393.52347027881 182.72527762979553  Z"/>
+    <text class="LabelY" x="300" y="450">100 %</text>,
+   <line class="branch" x1="300" y1="300" x2="450" y2="300"/>
+    <line class="branch" x1="300" y1="300" x2="393.52347027881" y2="417.2747223702045"/>
+    <line class="branch" x1="300" y1="300" x2="266.62185990655286" y2="446.23918682727356"/>
+    <line class="branch" x1="300" y1="300" x2="164.85466981463713" y2="365.08256086763373"/>
+    <line class="branch" x1="300" y1="300" x2="164.85466981463713" y2="234.9174391323663"/>
+    <line class="branch" x1="300" y1="300" x2="266.6218599065528" y2="153.76081317272644"/>
+    <line class="branch" x1="300" y1="300" x2="393.52347027881" y2="182.72527762979553"/>
+    <a href="https://www.google.fr/search?q=Biographie">
+      <text class="label" x="480" y="300" text-anchor="middle">Biographie</text>
+    </a>
+    <a href="https://www.google.fr/search?q=genre">
+      <text class="label" x="412.22816433457206" y="440.72966684424534" text-anchor="middle">genre</text>
+    </a>
+    <a href="https://www.google.fr/search?q=Nature">
+      <text class="label" x="259.9462318878634" y="475.48702419272826" text-anchor="middle">Nature</text>
+    </a>
+    <a href="https://www.google.fr/search?q=Mélanges">
+      <text class="label" x="137.82560377756457" y="378.09907304116047" text-anchor="middle">Mélanges</text>
+    </a>
+    <a href="https://www.google.fr/search?q=Illustration">
+      <text class="label" x="137.82560377756457" y="221.90092695883956" text-anchor="middle">Illustration</text>
+    </a>
+    <a href="https://www.google.fr/search?q=Index">
+      <text class="label" x="259.9462318878634" y="124.51297580727174" text-anchor="middle">Index</text>
+    </a>
+    <a href="https://www.google.fr/search?q=Congres">
+      <text class="label" x="412.228164334572" y="159.27033315575463" text-anchor="middle">Congres</text>
+    </a>
+  </g>
+  <g class="data">
+    <style>
+   #bnf{
+     fill:green;opacity:0.3
+   }
+   </style>
+    <a href="https://www.google.fr/search?q=bnf">
+      <path class="Poly" id="bnf" d="M 300 300 386.6561147776408 408.6633309471085 267.0008698243437 444.578635879197 164.85466981463713 365.08256086763373 217.3714017059969 260.20816427396505 297.0353001986138 287.0108014728236 393.52347027881 182.72527762979553  Z"/>
+    </a>
+    <style>
+   #inha{
+     fill:blue;opacity:0.3
+   }
+   </style>
+    <a href="https://www.google.fr/search?q=inha">
+      <path class="Poly" id="inha" d="M 429.67926432656725 300 380.24538197859994 400.6245262817578 270.66826222134665 428.51073993254636 187.86135493534823 354.00312525060247 165.1123204385186 235.04151713334755 270.4811020772766 170.66925789840988 377.68625595549463 202.58451625029667  Z"/>
+    </a>
+    <style>
+   #all{
+     fill:red;opacity:0.3
+   }
+   </style>
+    <a href="https://www.google.fr/search?q=all">
+      <path class="Poly" id="all" d="M 389.77872670807454 300 382.21787686078926 403.0979566302659 269.5398556942253 433.4546119540197 180.7825123007692 357.41211619394835 181.19172564527457 242.78495056644283 278.65146598681537 206.4659610960342 382.55915039363896 196.47409989524652  Z"/>
+    </a>
+  </g>
+  <g class="legend">
+    <text y="500" x="300" text-anchor="middle">Graph des données textuelle</text>
+  </g>
+</svg>

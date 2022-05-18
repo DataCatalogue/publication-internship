@@ -1,0 +1,1861 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"> 
+ (:CSS style:) 
+<style>
+  .pie:hover text {
+    fill:goldenrod;
+  }
+  .pie:hover rect{
+    stroke:goldenrod;;
+    stroke-width:5
+  }
+</style>
+  <text x="50%" y="1%" text-anchor="middle">Répartition des types de ventes par corpus</text>
+  <text x="0%" y="98%" fill="black">EXP1 bnf</text>
+  <g class="bar" transform="translate(0 50)scale(1 0.9)">
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits orientaux">
+        <rect x="0%" y="0%" width="10%" height="0.1273885350318471%" style=" fill:rgb(0,0,0)"/>
+      </a>
+      <text x="10%" y="0%" font-size="12" fill="transparent">Manuscrits orientaux : 0.1273885350318471 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes géographiques">
+        <rect x="0%" y="0.1273885350318471%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,3.642857142857142857,0)"/>
+      </a>
+      <text x="10%" y="0.1273885350318471%" font-size="12" fill="transparent">Cartes géographiques : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres illustrés">
+        <rect x="0%" y="0.148619957537155%" width="10%" height="0.0636942675159236%" style=" fill:rgb(0,7.285714285714285714,0)"/>
+      </a>
+      <text x="10%" y="0.148619957537155%" font-size="12" fill="transparent">Livres illustrés : 0.0636942675159236 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=manuscrits">
+        <rect x="0%" y="0.2123142250530786%" width="10%" height="0.148619957537155%" style=" fill:rgb(0,10.928571428571428571,0)"/>
+      </a>
+      <text x="10%" y="0.2123142250530786%" font-size="12" fill="transparent">manuscrits : 0.148619957537155 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits">
+        <rect x="0%" y="0.3609341825902336%" width="10%" height="6.624203821656051%" style=" fill:rgb(0,14.571428571428571428,0)"/>
+      </a>
+      <text x="10%" y="0.3609341825902336%" font-size="12" fill="transparent">Manuscrits : 6.624203821656051 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=incunables">
+        <rect x="0%" y="6.9851380042462846%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,18.214285714285714285,0)"/>
+      </a>
+      <text x="10%" y="6.9851380042462846%" font-size="12" fill="transparent">incunables : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Annonce">
+        <rect x="0%" y="7.0063694267515925%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,21.857142857142857142,0)"/>
+      </a>
+      <text x="10%" y="7.0063694267515925%" font-size="12" fill="transparent">Annonce : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=livres hébreux">
+        <rect x="0%" y="7.0276008492569004%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,25.499999999999999999,0)"/>
+      </a>
+      <text x="10%" y="7.0276008492569004%" font-size="12" fill="transparent">livres hébreux : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objerts d'art">
+        <rect x="0%" y="7.0488322717622083%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,29.142857142857142856,0)"/>
+      </a>
+      <text x="10%" y="7.0488322717622083%" font-size="12" fill="transparent">Objerts d'art : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art">
+        <rect x="0%" y="7.0700636942675162%" width="10%" height="39.8089171974522293%" style=" fill:rgb(0,32.785714285714285713,0)"/>
+      </a>
+      <text x="10%" y="7.0700636942675162%" font-size="12" fill="transparent">Art : 39.8089171974522293 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=art">
+        <rect x="0%" y="46.8789808917197455%" width="10%" height="0.148619957537155%" style=" fill:rgb(0,36.42857142857142857,0)"/>
+      </a>
+      <text x="10%" y="46.8789808917197455%" font-size="12" fill="transparent">art : 0.148619957537155 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Musique">
+        <rect x="0%" y="47.0276008492569005%" width="10%" height="1.4012738853503185%" style=" fill:rgb(0,40.071428571428571427,0)"/>
+      </a>
+      <text x="10%" y="47.0276008492569005%" font-size="12" fill="transparent">Musique : 1.4012738853503185 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Militaria">
+        <rect x="0%" y="48.428874734607219%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,43.714285714285714284,0)"/>
+      </a>
+      <text x="10%" y="48.428874734607219%" font-size="12" fill="transparent">Militaria : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Peintures">
+        <rect x="0%" y="48.4713375796178347%" width="10%" height="0.2123142250530786%" style=" fill:rgb(0,47.357142857142857141,0)"/>
+      </a>
+      <text x="10%" y="48.4713375796178347%" font-size="12" fill="transparent">Peintures : 0.2123142250530786 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=art juif">
+        <rect x="0%" y="48.6836518046709133%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,50.999999999999999998,0)"/>
+      </a>
+      <text x="10%" y="48.6836518046709133%" font-size="12" fill="transparent">art juif : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art juif">
+        <rect x="0%" y="48.7048832271762212%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,54.642857142857142855,0)"/>
+      </a>
+      <text x="10%" y="48.7048832271762212%" font-size="12" fill="transparent">Art juif : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Céramiques">
+        <rect x="0%" y="48.7261146496815291%" width="10%" height="0.0636942675159236%" style=" fill:rgb(0,58.285714285714285712,0)"/>
+      </a>
+      <text x="10%" y="48.7261146496815291%" font-size="12" fill="transparent">Céramiques : 0.0636942675159236 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets d'arts">
+        <rect x="0%" y="48.7898089171974527%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,61.928571428571428569,0)"/>
+      </a>
+      <text x="10%" y="48.7898089171974527%" font-size="12" fill="transparent">Objets d'arts : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Lettres">
+        <rect x="0%" y="48.8110403397027606%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,65.571428571428571426,0)"/>
+      </a>
+      <text x="10%" y="48.8110403397027606%" font-size="12" fill="transparent">Lettres : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Estampe">
+        <rect x="0%" y="48.8322717622080685%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,69.214285714285714283,0)"/>
+      </a>
+      <text x="10%" y="48.8322717622080685%" font-size="12" fill="transparent">Estampe : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=livres">
+        <rect x="0%" y="48.8535031847133764%" width="10%" height="0.8280254777070064%" style=" fill:rgb(0,72.85714285714285714,0)"/>
+      </a>
+      <text x="10%" y="48.8535031847133764%" font-size="12" fill="transparent">livres : 0.8280254777070064 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres">
+        <rect x="0%" y="49.6815286624203828%" width="10%" height="24.5222929936305732%" style=" fill:rgb(0,76.499999999999999997,0)"/>
+      </a>
+      <text x="10%" y="49.6815286624203828%" font-size="12" fill="transparent">Livres : 24.5222929936305732 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Véhicules de collection">
+        <rect x="0%" y="74.203821656050956%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,80.142857142857142854,0)"/>
+      </a>
+      <text x="10%" y="74.203821656050956%" font-size="12" fill="transparent">Véhicules de collection : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Numismatique">
+        <rect x="0%" y="74.2462845010615717%" width="10%" height="0.0636942675159236%" style=" fill:rgb(0,83.785714285714285711,0)"/>
+      </a>
+      <text x="10%" y="74.2462845010615717%" font-size="12" fill="transparent">Numismatique : 0.0636942675159236 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=manuscrits hébreux">
+        <rect x="0%" y="74.3099787685774953%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,87.428571428571428568,0)"/>
+      </a>
+      <text x="10%" y="74.3099787685774953%" font-size="12" fill="transparent">manuscrits hébreux : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Éventails">
+        <rect x="0%" y="74.3312101910828032%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,91.071428571428571425,0)"/>
+      </a>
+      <text x="10%" y="74.3312101910828032%" font-size="12" fill="transparent">Éventails : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres imprimés">
+        <rect x="0%" y="74.3524416135881111%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,94.714285714285714282,0)"/>
+      </a>
+      <text x="10%" y="74.3524416135881111%" font-size="12" fill="transparent">Livres imprimés : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Armes">
+        <rect x="0%" y="74.3949044585987268%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,98.357142857142857139,0)"/>
+      </a>
+      <text x="10%" y="74.3949044585987268%" font-size="12" fill="transparent">Armes : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Véhicules">
+        <rect x="0%" y="74.4373673036093425%" width="10%" height="0.0636942675159236%" style=" fill:rgb(0,101.999999999999999996,0)"/>
+      </a>
+      <text x="10%" y="74.4373673036093425%" font-size="12" fill="transparent">Véhicules : 0.0636942675159236 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Gravures">
+        <rect x="0%" y="74.5010615711252661%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,105.642857142857142853,0)"/>
+      </a>
+      <text x="10%" y="74.5010615711252661%" font-size="12" fill="transparent">Gravures : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes postales">
+        <rect x="0%" y="74.522292993630574%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,109.28571428571428571,0)"/>
+      </a>
+      <text x="10%" y="74.522292993630574%" font-size="12" fill="transparent">Cartes postales : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livre">
+        <rect x="0%" y="74.5647558386411897%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,112.928571428571428567,0)"/>
+      </a>
+      <text x="10%" y="74.5647558386411897%" font-size="12" fill="transparent">Livre : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=livre">
+        <rect x="0%" y="74.5859872611464976%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,116.571428571428571424,0)"/>
+      </a>
+      <text x="10%" y="74.5859872611464976%" font-size="12" fill="transparent">livre : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Phiebig">
+        <rect x="0%" y="74.6072186836518055%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,120.214285714285714281,0)"/>
+      </a>
+      <text x="10%" y="74.6072186836518055%" font-size="12" fill="transparent">Phiebig : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Estampes">
+        <rect x="0%" y="74.6284501061571134%" width="10%" height="5.1380042462845011%" style=" fill:rgb(0,123.857142857142857138,0)"/>
+      </a>
+      <text x="10%" y="74.6284501061571134%" font-size="12" fill="transparent">Estampes : 5.1380042462845011 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits.">
+        <rect x="0%" y="79.7664543524416145%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,127.499999999999999995,0)"/>
+      </a>
+      <text x="10%" y="79.7664543524416145%" font-size="12" fill="transparent">Manuscrits. : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Dessins">
+        <rect x="0%" y="79.7876857749469224%" width="10%" height="1.2101910828025478%" style=" fill:rgb(0,131.142857142857142852,0)"/>
+      </a>
+      <text x="10%" y="79.7876857749469224%" font-size="12" fill="transparent">Dessins : 1.2101910828025478 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Autographes">
+        <rect x="0%" y="80.9978768577494702%" width="10%" height="8.7048832271762208%" style=" fill:rgb(0,134.785714285714285709,0)"/>
+      </a>
+      <text x="10%" y="80.9978768577494702%" font-size="12" fill="transparent">Autographes : 8.7048832271762208 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Elzevier library">
+        <rect x="0%" y="89.702760084925691%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,138.428571428571428566,0)"/>
+      </a>
+      <text x="10%" y="89.702760084925691%" font-size="12" fill="transparent">Elzevier library : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Archéologie">
+        <rect x="0%" y="89.7239915074309989%" width="10%" height="0.0849256900212314%" style=" fill:rgb(0,142.071428571428571423,0)"/>
+      </a>
+      <text x="10%" y="89.7239915074309989%" font-size="12" fill="transparent">Archéologie : 0.0849256900212314 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets d'art">
+        <rect x="0%" y="89.8089171974522303%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,145.71428571428571428,0)"/>
+      </a>
+      <text x="10%" y="89.8089171974522303%" font-size="12" fill="transparent">Objets d'art : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Timbres-poste">
+        <rect x="0%" y="89.8301486199575382%" width="10%" height="0.1273885350318471%" style=" fill:rgb(0,149.357142857142857137,0)"/>
+      </a>
+      <text x="10%" y="89.8301486199575382%" font-size="12" fill="transparent">Timbres-poste : 0.1273885350318471 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes">
+        <rect x="0%" y="89.9575371549893853%" width="10%" height="0.2547770700636943%" style=" fill:rgb(0,152.999999999999999994,0)"/>
+      </a>
+      <text x="10%" y="89.9575371549893853%" font-size="12" fill="transparent">Cartes : 0.2547770700636943 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bijoux">
+        <rect x="0%" y="90.2123142250530796%" width="10%" height="0.3821656050955414%" style=" fill:rgb(0,156.642857142857142851,0)"/>
+      </a>
+      <text x="10%" y="90.2123142250530796%" font-size="12" fill="transparent">Bijoux : 0.3821656050955414 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts">
+        <rect x="0%" y="90.594479830148621%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,160.285714285714285708,0)"/>
+      </a>
+      <text x="10%" y="90.594479830148621%" font-size="12" fill="transparent">Arts : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Archives">
+        <rect x="0%" y="90.6369426751592367%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,163.928571428571428565,0)"/>
+      </a>
+      <text x="10%" y="90.6369426751592367%" font-size="12" fill="transparent">Archives : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Ex-libris">
+        <rect x="0%" y="90.6581740976645446%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,167.571428571428571422,0)"/>
+      </a>
+      <text x="10%" y="90.6581740976645446%" font-size="12" fill="transparent">Ex-libris : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrit">
+        <rect x="0%" y="90.7006369426751603%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,171.214285714285714279,0)"/>
+      </a>
+      <text x="10%" y="90.7006369426751603%" font-size="12" fill="transparent">Manuscrit : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Mobilier">
+        <rect x="0%" y="90.7218683651804682%" width="10%" height="0.4246284501061571%" style=" fill:rgb(0,174.857142857142857136,0)"/>
+      </a>
+      <text x="10%" y="90.7218683651804682%" font-size="12" fill="transparent">Mobilier : 0.4246284501061571 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Meubles">
+        <rect x="0%" y="91.1464968152866253%" width="10%" height="0.1273885350318471%" style=" fill:rgb(0,178.499999999999999993,0)"/>
+      </a>
+      <text x="10%" y="91.1464968152866253%" font-size="12" fill="transparent">Meubles : 0.1273885350318471 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres (recueil)">
+        <rect x="0%" y="91.2738853503184724%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,182.14285714285714285,0)"/>
+      </a>
+      <text x="10%" y="91.2738853503184724%" font-size="12" fill="transparent">Livres (recueil) : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=divers">
+        <rect x="0%" y="91.2951167728237803%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,185.785714285714285707,0)"/>
+      </a>
+      <text x="10%" y="91.2951167728237803%" font-size="12" fill="transparent">divers : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Divers">
+        <rect x="0%" y="91.3163481953290882%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,189.428571428571428564,0)"/>
+      </a>
+      <text x="10%" y="91.3163481953290882%" font-size="12" fill="transparent">Divers : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts du spectacle">
+        <rect x="0%" y="91.3588110403397039%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,193.071428571428571421,0)"/>
+      </a>
+      <text x="10%" y="91.3588110403397039%" font-size="12" fill="transparent">Arts du spectacle : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Tableaux">
+        <rect x="0%" y="91.3800424628450118%" width="10%" height="0.0849256900212314%" style=" fill:rgb(0,196.714285714285714278,0)"/>
+      </a>
+      <text x="10%" y="91.3800424628450118%" font-size="12" fill="transparent">Tableaux : 0.0849256900212314 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=judaica, manuscrits hébreux">
+        <rect x="0%" y="91.4649681528662432%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,200.357142857142857135,0)"/>
+      </a>
+      <text x="10%" y="91.4649681528662432%" font-size="12" fill="transparent">judaica, manuscrits hébreux : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Sculptures">
+        <rect x="0%" y="91.4861995753715511%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,203.999999999999999992,0)"/>
+      </a>
+      <text x="10%" y="91.4861995753715511%" font-size="12" fill="transparent">Sculptures : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Reliure">
+        <rect x="0%" y="91.5286624203821668%" width="10%" height="0.0424628450106157%" style=" fill:rgb(0,207.642857142857142849,0)"/>
+      </a>
+      <text x="10%" y="91.5286624203821668%" font-size="12" fill="transparent">Reliure : 0.0424628450106157 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photographie">
+        <rect x="0%" y="91.5711252653927825%" width="10%" height="0.0636942675159236%" style=" fill:rgb(0,211.285714285714285706,0)"/>
+      </a>
+      <text x="10%" y="91.5711252653927825%" font-size="12" fill="transparent">Photographie : 0.0636942675159236 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Vins">
+        <rect x="0%" y="91.6348195329087061%" width="10%" height="0.0636942675159236%" style=" fill:rgb(0,214.928571428571428563,0)"/>
+      </a>
+      <text x="10%" y="91.6348195329087061%" font-size="12" fill="transparent">Vins : 0.0636942675159236 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photographies">
+        <rect x="0%" y="91.6985138004246297%" width="10%" height="4.9256900212314225%" style=" fill:rgb(0,218.57142857142857142,0)"/>
+      </a>
+      <text x="10%" y="91.6985138004246297%" font-size="12" fill="transparent">Photographies : 4.9256900212314225 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=photographies">
+        <rect x="0%" y="96.6242038216560522%" width="10%" height="0.1273885350318471%" style=" fill:rgb(0,222.214285714285714277,0)"/>
+      </a>
+      <text x="10%" y="96.6242038216560522%" font-size="12" fill="transparent">photographies : 0.1273885350318471 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=reliures">
+        <rect x="0%" y="96.7515923566878993%" width="10%" height="0.0636942675159236%" style=" fill:rgb(0,225.857142857142857134,0)"/>
+      </a>
+      <text x="10%" y="96.7515923566878993%" font-size="12" fill="transparent">reliures : 0.0636942675159236 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Reliures">
+        <rect x="0%" y="96.8152866242038229%" width="10%" height="0.0849256900212314%" style=" fill:rgb(0,229.499999999999999991,0)"/>
+      </a>
+      <text x="10%" y="96.8152866242038229%" font-size="12" fill="transparent">Reliures : 0.0849256900212314 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=affiches">
+        <rect x="0%" y="96.9002123142250543%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,233.142857142857142848,0)"/>
+      </a>
+      <text x="10%" y="96.9002123142250543%" font-size="12" fill="transparent">affiches : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Affiches">
+        <rect x="0%" y="96.9214437367303622%" width="10%" height="2.7600849256900212%" style=" fill:rgb(0,236.785714285714285705,0)"/>
+      </a>
+      <text x="10%" y="96.9214437367303622%" font-size="12" fill="transparent">Affiches : 2.7600849256900212 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Pièces de théâtre">
+        <rect x="0%" y="99.6815286624203834%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,240.428571428571428562,0)"/>
+      </a>
+      <text x="10%" y="99.6815286624203834%" font-size="12" fill="transparent">Pièces de théâtre : 0.0212314225053079 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Aquarelles">
+        <rect x="0%" y="99.7027600849256913%" width="10%" height="0.2123142250530786%" style=" fill:rgb(0,244.071428571428571419,0)"/>
+      </a>
+      <text x="10%" y="99.7027600849256913%" font-size="12" fill="transparent">Aquarelles : 0.2123142250530786 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Haute-couture">
+        <rect x="0%" y="99.9150743099787699%" width="10%" height="0.0636942675159236%" style=" fill:rgb(0,247.714285714285714276,0)"/>
+      </a>
+      <text x="10%" y="99.9150743099787699%" font-size="12" fill="transparent">Haute-couture : 0.0636942675159236 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Porcelaines">
+        <rect x="0%" y="99.9787685774946935%" width="10%" height="0.0212314225053079%" style=" fill:rgb(0,251.357142857142857133,0)"/>
+      </a>
+      <text x="10%" y="99.9787685774946935%" font-size="12" fill="transparent">Porcelaines : 0.0212314225053079 %</text>
+    </g>
+  </g>
+  <text x="20%" y="98%" fill="black">EXP1 inha</text>
+  <g class="bar" transform="translate(0 50)scale(1 0.9)">
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Mobiliert">
+        <rect x="20%" y="0%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,0)"/>
+      </a>
+      <text x="30%" y="0%" font-size="12" fill="transparent">Mobiliert : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits">
+        <rect x="20%" y="0.0070957212800681%" width="10%" height="1.6249201731355992%" style=" fill:rgb(0,0,2.712765957446808511)"/>
+      </a>
+      <text x="30%" y="0.0070957212800681%" font-size="12" fill="transparent">Manuscrits : 1.6249201731355992 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Horlogerie">
+        <rect x="20%" y="1.6320158944156673%" width="10%" height="0.0141914425601362%" style=" fill:rgb(0,0,5.425531914893617022)"/>
+      </a>
+      <text x="30%" y="1.6320158944156673%" font-size="12" fill="transparent">Horlogerie : 0.0141914425601362 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art du spectacle">
+        <rect x="20%" y="1.6462073369758035%" width="10%" height="0.0141914425601362%" style=" fill:rgb(0,0,8.138297872340425533)"/>
+      </a>
+      <text x="30%" y="1.6462073369758035%" font-size="12" fill="transparent">Art du spectacle : 0.0141914425601362 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Mode">
+        <rect x="20%" y="1.6603987795359397%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,10.851063829787234044)"/>
+      </a>
+      <text x="30%" y="1.6603987795359397%" font-size="12" fill="transparent">Mode : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bibjoux">
+        <rect x="20%" y="1.6674945008160078%" width="10%" height="0.0354786064003406%" style=" fill:rgb(0,0,13.563829787234042555)"/>
+      </a>
+      <text x="30%" y="1.6674945008160078%" font-size="12" fill="transparent">Bibjoux : 0.0354786064003406 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art">
+        <rect x="20%" y="1.7029731072163484%" width="10%" height="55.3821045909316682%" style=" fill:rgb(0,0,16.276595744680851066)"/>
+      </a>
+      <text x="30%" y="1.7029731072163484%" font-size="12" fill="transparent">Art : 55.3821045909316682 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Maroquinerie">
+        <rect x="20%" y="57.0850776981480166%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,18.989361702127659577)"/>
+      </a>
+      <text x="30%" y="57.0850776981480166%" font-size="12" fill="transparent">Maroquinerie : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=art">
+        <rect x="20%" y="57.0921734194280847%" width="10%" height="0.0141914425601362%" style=" fill:rgb(0,0,21.702127659574468088)"/>
+      </a>
+      <text x="30%" y="57.0921734194280847%" font-size="12" fill="transparent">art : 0.0141914425601362 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bijouxr">
+        <rect x="20%" y="57.1063648619882209%" width="10%" height="0.0141914425601362%" style=" fill:rgb(0,0,24.414893617021276599)"/>
+      </a>
+      <text x="30%" y="57.1063648619882209%" font-size="12" fill="transparent">Bijouxr : 0.0141914425601362 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Musique">
+        <rect x="20%" y="57.1205563045483571%" width="10%" height="0.4896047683247002%" style=" fill:rgb(0,0,27.12765957446808511)"/>
+      </a>
+      <text x="30%" y="57.1205563045483571%" font-size="12" fill="transparent">Musique : 0.4896047683247002 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Tapisseries">
+        <rect x="20%" y="57.6101610728730573%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,29.840425531914893621)"/>
+      </a>
+      <text x="30%" y="57.6101610728730573%" font-size="12" fill="transparent">Tapisseries : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bijouxs">
+        <rect x="20%" y="57.6172567941531254%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,32.553191489361702132)"/>
+      </a>
+      <text x="30%" y="57.6172567941531254%" font-size="12" fill="transparent">Bijouxs : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Peintures">
+        <rect x="20%" y="57.6243525154331935%" width="10%" height="0.0283828851202725%" style=" fill:rgb(0,0,35.265957446808510643)"/>
+      </a>
+      <text x="30%" y="57.6243525154331935%" font-size="12" fill="transparent">Peintures : 0.0283828851202725 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art pré-colombien">
+        <rect x="20%" y="57.652735400553466%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,37.978723404255319154)"/>
+      </a>
+      <text x="30%" y="57.652735400553466%" font-size="12" fill="transparent">Art pré-colombien : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Céramiques">
+        <rect x="20%" y="57.6598311218335341%" width="10%" height="0.2554459660824523%" style=" fill:rgb(0,0,40.691489361702127665)"/>
+      </a>
+      <text x="30%" y="57.6598311218335341%" font-size="12" fill="transparent">Céramiques : 0.2554459660824523 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Autographe">
+        <rect x="20%" y="57.9152770879159864%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,43.404255319148936176)"/>
+      </a>
+      <text x="30%" y="57.9152770879159864%" font-size="12" fill="transparent">Autographe : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Dessin">
+        <rect x="20%" y="57.9223728091960545%" width="10%" height="0.2767331299226566%" style=" fill:rgb(0,0,46.117021276595744687)"/>
+      </a>
+      <text x="30%" y="57.9223728091960545%" font-size="12" fill="transparent">Dessin : 0.2767331299226566 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Lettres">
+        <rect x="20%" y="58.1991059391187111%" width="10%" height="0.0283828851202725%" style=" fill:rgb(0,0,48.829787234042553198)"/>
+      </a>
+      <text x="30%" y="58.1991059391187111%" font-size="12" fill="transparent">Lettres : 0.0283828851202725 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Estampe">
+        <rect x="20%" y="58.2274888242389836%" width="10%" height="0.0354786064003406%" style=" fill:rgb(0,0,51.542553191489361709)"/>
+      </a>
+      <text x="30%" y="58.2274888242389836%" font-size="12" fill="transparent">Estampe : 0.0354786064003406 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Gouaches">
+        <rect x="20%" y="58.2629674306393242%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,54.25531914893617022)"/>
+      </a>
+      <text x="30%" y="58.2629674306393242%" font-size="12" fill="transparent">Gouaches : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres">
+        <rect x="20%" y="58.2700631519193923%" width="10%" height="8.0820265379975875%" style=" fill:rgb(0,0,56.968085106382978731)"/>
+      </a>
+      <text x="30%" y="58.2700631519193923%" font-size="12" fill="transparent">Livres : 8.0820265379975875 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Véhicules de collection">
+        <rect x="20%" y="66.3520896899169798%" width="10%" height="0.2270630809621798%" style=" fill:rgb(0,0,59.680851063829787242)"/>
+      </a>
+      <text x="30%" y="66.3520896899169798%" font-size="12" fill="transparent">Véhicules de collection : 0.2270630809621798 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Numismatique">
+        <rect x="20%" y="66.5791527708791596%" width="10%" height="0.8727737174483786%" style=" fill:rgb(0,0,62.393617021276595753)"/>
+      </a>
+      <text x="30%" y="66.5791527708791596%" font-size="12" fill="transparent">Numismatique : 0.8727737174483786 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Partitions">
+        <rect x="20%" y="67.4519264883275382%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,65.106382978723404264)"/>
+      </a>
+      <text x="30%" y="67.4519264883275382%" font-size="12" fill="transparent">Partitions : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=ManuscritsmMoulins">
+        <rect x="20%" y="67.4590222096076063%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,67.819148936170212775)"/>
+      </a>
+      <text x="30%" y="67.4590222096076063%" font-size="12" fill="transparent">ManuscritsmMoulins : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Minéraux">
+        <rect x="20%" y="67.4661179308876744%" width="10%" height="0.0141914425601362%" style=" fill:rgb(0,0,70.531914893617021286)"/>
+      </a>
+      <text x="30%" y="67.4661179308876744%" font-size="12" fill="transparent">Minéraux : 0.0141914425601362 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Eléments architecturaux">
+        <rect x="20%" y="67.4803093734478106%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,73.244680851063829797)"/>
+      </a>
+      <text x="30%" y="67.4803093734478106%" font-size="12" fill="transparent">Eléments architecturaux : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Armes">
+        <rect x="20%" y="67.4874050947278787%" width="10%" height="0.9508266515291279%" style=" fill:rgb(0,0,75.957446808510638308)"/>
+      </a>
+      <text x="30%" y="67.4874050947278787%" font-size="12" fill="transparent">Armes : 0.9508266515291279 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Physique">
+        <rect x="20%" y="68.4382317462570066%" width="10%" height="0.1419144256013624%" style=" fill:rgb(0,0,78.670212765957446819)"/>
+      </a>
+      <text x="30%" y="68.4382317462570066%" font-size="12" fill="transparent">Physique : 0.1419144256013624 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Gravures">
+        <rect x="20%" y="68.580146171858369%" width="10%" height="0.0212871638402044%" style=" fill:rgb(0,0,81.38297872340425533)"/>
+      </a>
+      <text x="30%" y="68.580146171858369%" font-size="12" fill="transparent">Gravures : 0.0212871638402044 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes postales">
+        <rect x="20%" y="68.6014333356985734%" width="10%" height="0.120627261761158%" style=" fill:rgb(0,0,84.095744680851063841)"/>
+      </a>
+      <text x="30%" y="68.6014333356985734%" font-size="12" fill="transparent">Cartes postales : 0.120627261761158 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes Postales">
+        <rect x="20%" y="68.7220605974597314%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,86.808510638297872352)"/>
+      </a>
+      <text x="30%" y="68.7220605974597314%" font-size="12" fill="transparent">Cartes Postales : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photograpies">
+        <rect x="20%" y="68.7291563187397995%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,89.521276595744680863)"/>
+      </a>
+      <text x="30%" y="68.7291563187397995%" font-size="12" fill="transparent">Photograpies : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livre">
+        <rect x="20%" y="68.7362520400198676%" width="10%" height="0.0851486553608174%" style=" fill:rgb(0,0,92.234042553191489374)"/>
+      </a>
+      <text x="30%" y="68.7362520400198676%" font-size="12" fill="transparent">Livre : 0.0851486553608174 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Numismatiquet">
+        <rect x="20%" y="68.821400695380685%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,94.946808510638297885)"/>
+      </a>
+      <text x="30%" y="68.821400695380685%" font-size="12" fill="transparent">Numismatiquet : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Estampes">
+        <rect x="20%" y="68.8284964166607531%" width="10%" height="1.6745902220960761%" style=" fill:rgb(0,0,97.659574468085106396)"/>
+      </a>
+      <text x="30%" y="68.8284964166607531%" font-size="12" fill="transparent">Estampes : 1.6745902220960761 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Artisanat">
+        <rect x="20%" y="70.5030866387568292%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,100.372340425531914907)"/>
+      </a>
+      <text x="30%" y="70.5030866387568292%" font-size="12" fill="transparent">Artisanat : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets">
+        <rect x="20%" y="70.5101823600368973%" width="10%" height="0.177393032001703%" style=" fill:rgb(0,0,103.085106382978723418)"/>
+      </a>
+      <text x="30%" y="70.5101823600368973%" font-size="12" fill="transparent">Objets : 0.177393032001703 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Dessins">
+        <rect x="20%" y="70.6875753920386003%" width="10%" height="3.5407649187539913%" style=" fill:rgb(0,0,105.797872340425531929)"/>
+      </a>
+      <text x="30%" y="70.6875753920386003%" font-size="12" fill="transparent">Dessins : 3.5407649187539913 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Autographes">
+        <rect x="20%" y="74.2283403107925916%" width="10%" height="1.135315404810899%" style=" fill:rgb(0,0,108.51063829787234044)"/>
+      </a>
+      <text x="30%" y="74.2283403107925916%" font-size="12" fill="transparent">Autographes : 1.135315404810899 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Histoire naturelle">
+        <rect x="20%" y="75.3636557156034906%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,111.223404255319148951)"/>
+      </a>
+      <text x="30%" y="75.3636557156034906%" font-size="12" fill="transparent">Histoire naturelle : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Archéologie">
+        <rect x="20%" y="75.3707514368835587%" width="10%" height="0.475413325764564%" style=" fill:rgb(0,0,113.936170212765957462)"/>
+      </a>
+      <text x="30%" y="75.3707514368835587%" font-size="12" fill="transparent">Archéologie : 0.475413325764564 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets d'art">
+        <rect x="20%" y="75.8461647626481227%" width="10%" height="0.0638614915206131%" style=" fill:rgb(0,0,116.648936170212765973)"/>
+      </a>
+      <text x="30%" y="75.8461647626481227%" font-size="12" fill="transparent">Objets d'art : 0.0638614915206131 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Céramique">
+        <rect x="20%" y="75.9100262541687358%" width="10%" height="2.7389484141062939%" style=" fill:rgb(0,0,119.361702127659574484)"/>
+      </a>
+      <text x="30%" y="75.9100262541687358%" font-size="12" fill="transparent">Céramique : 2.7389484141062939 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Tapis">
+        <rect x="20%" y="78.6489746682750297%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,122.074468085106382995)"/>
+      </a>
+      <text x="30%" y="78.6489746682750297%" font-size="12" fill="transparent">Tapis : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art océanien">
+        <rect x="20%" y="78.6560703895550978%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,124.787234042553191506)"/>
+      </a>
+      <text x="30%" y="78.6560703895550978%" font-size="12" fill="transparent">Art océanien : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Peinture">
+        <rect x="20%" y="78.6631661108351659%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,127.500000000000000017)"/>
+      </a>
+      <text x="30%" y="78.6631661108351659%" font-size="12" fill="transparent">Peinture : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts decoratifs">
+        <rect x="20%" y="78.670261832115234%" width="10%" height="0.0141914425601362%" style=" fill:rgb(0,0,130.212765957446808528)"/>
+      </a>
+      <text x="30%" y="78.670261832115234%" font-size="12" fill="transparent">Arts decoratifs : 0.0141914425601362 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Poupées">
+        <rect x="20%" y="78.6844532746753702%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,132.925531914893617039)"/>
+      </a>
+      <text x="30%" y="78.6844532746753702%" font-size="12" fill="transparent">Poupées : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits autographes">
+        <rect x="20%" y="78.6915489959554383%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,135.63829787234042555)"/>
+      </a>
+      <text x="30%" y="78.6915489959554383%" font-size="12" fill="transparent">Manuscrits autographes : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes">
+        <rect x="20%" y="78.6986447172355064%" width="10%" height="0.177393032001703%" style=" fill:rgb(0,0,138.351063829787234061)"/>
+      </a>
+      <text x="30%" y="78.6986447172355064%" font-size="12" fill="transparent">Cartes : 0.177393032001703 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Tapisserie">
+        <rect x="20%" y="78.8760377492372094%" width="10%" height="0.0141914425601362%" style=" fill:rgb(0,0,141.063829787234042572)"/>
+      </a>
+      <text x="30%" y="78.8760377492372094%" font-size="12" fill="transparent">Tapisserie : 0.0141914425601362 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bijoux">
+        <rect x="20%" y="78.8902291917973456%" width="10%" height="6.4074363159015114%" style=" fill:rgb(0,0,143.776595744680851083)"/>
+      </a>
+      <text x="30%" y="78.8902291917973456%" font-size="12" fill="transparent">Bijoux : 6.4074363159015114 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts">
+        <rect x="20%" y="85.297665507698857%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,146.489361702127659594)"/>
+      </a>
+      <text x="30%" y="85.297665507698857%" font-size="12" fill="transparent">Arts : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=cCéramique">
+        <rect x="20%" y="85.3047612289789251%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,149.202127659574468105)"/>
+      </a>
+      <text x="30%" y="85.3047612289789251%" font-size="12" fill="transparent">cCéramique : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrit">
+        <rect x="20%" y="85.3118569502589932%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,151.914893617021276616)"/>
+      </a>
+      <text x="30%" y="85.3118569502589932%" font-size="12" fill="transparent">Manuscrit : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photograhies">
+        <rect x="20%" y="85.3189526715390613%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,154.627659574468085127)"/>
+      </a>
+      <text x="30%" y="85.3189526715390613%" font-size="12" fill="transparent">Photograhies : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Animaux">
+        <rect x="20%" y="85.3260483928191294%" width="10%" height="0.1419144256013624%" style=" fill:rgb(0,0,157.340425531914893638)"/>
+      </a>
+      <text x="30%" y="85.3260483928191294%" font-size="12" fill="transparent">Animaux : 0.1419144256013624 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Mobilier">
+        <rect x="20%" y="85.4679628184204918%" width="10%" height="10.0404456112963883%" style=" fill:rgb(0,0,160.053191489361702149)"/>
+      </a>
+      <text x="30%" y="85.4679628184204918%" font-size="12" fill="transparent">Mobilier : 10.0404456112963883 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Jouets">
+        <rect x="20%" y="95.5084084297168801%" width="10%" height="0.2909245724827929%" style=" fill:rgb(0,0,162.76595744680851066)"/>
+      </a>
+      <text x="30%" y="95.5084084297168801%" font-size="12" fill="transparent">Jouets : 0.2909245724827929 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Meubles">
+        <rect x="20%" y="95.799333002199673%" width="10%" height="0.0496700489604768%" style=" fill:rgb(0,0,165.478723404255319171)"/>
+      </a>
+      <text x="30%" y="95.799333002199673%" font-size="12" fill="transparent">Meubles : 0.0496700489604768 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Miniatures">
+        <rect x="20%" y="95.8490030511601498%" width="10%" height="0.056765770240545%" style=" fill:rgb(0,0,168.191489361702127682)"/>
+      </a>
+      <text x="30%" y="95.8490030511601498%" font-size="12" fill="transparent">Miniatures : 0.056765770240545 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Curiosités">
+        <rect x="20%" y="95.9057688214006948%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,170.904255319148936193)"/>
+      </a>
+      <text x="30%" y="95.9057688214006948%" font-size="12" fill="transparent">Curiosités : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Musique (partitions)">
+        <rect x="20%" y="95.9128645426807629%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,173.617021276595744704)"/>
+      </a>
+      <text x="30%" y="95.9128645426807629%" font-size="12" fill="transparent">Musique (partitions) : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cirque">
+        <rect x="20%" y="95.919960263960831%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,176.329787234042553215)"/>
+      </a>
+      <text x="30%" y="95.919960263960831%" font-size="12" fill="transparent">Cirque : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Textile">
+        <rect x="20%" y="95.9270559852408991%" width="10%" height="0.0780529340807493%" style=" fill:rgb(0,0,179.042553191489361726)"/>
+      </a>
+      <text x="30%" y="95.9270559852408991%" font-size="12" fill="transparent">Textile : 0.0780529340807493 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Divers">
+        <rect x="20%" y="96.0051089193216484%" width="10%" height="0.0922443766408855%" style=" fill:rgb(0,0,181.755319148936170237)"/>
+      </a>
+      <text x="30%" y="96.0051089193216484%" font-size="12" fill="transparent">Divers : 0.0922443766408855 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts du spectacle">
+        <rect x="20%" y="96.0973532959625339%" width="10%" height="0.2270630809621798%" style=" fill:rgb(0,0,184.468085106382978748)"/>
+      </a>
+      <text x="30%" y="96.0973532959625339%" font-size="12" fill="transparent">Arts du spectacle : 0.2270630809621798 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Timbres">
+        <rect x="20%" y="96.3244163769247137%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,187.180851063829787259)"/>
+      </a>
+      <text x="30%" y="96.3244163769247137%" font-size="12" fill="transparent">Timbres : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets de pharmacie">
+        <rect x="20%" y="96.3315120982047818%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,189.89361702127659577)"/>
+      </a>
+      <text x="30%" y="96.3315120982047818%" font-size="12" fill="transparent">Objets de pharmacie : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Sculptures">
+        <rect x="20%" y="96.3386078194848499%" width="10%" height="0.0212871638402044%" style=" fill:rgb(0,0,192.606382978723404281)"/>
+      </a>
+      <text x="30%" y="96.3386078194848499%" font-size="12" fill="transparent">Sculptures : 0.0212871638402044 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts décoratifs">
+        <rect x="20%" y="96.3598949833250543%" width="10%" height="0.0354786064003406%" style=" fill:rgb(0,0,195.319148936170212792)"/>
+      </a>
+      <text x="30%" y="96.3598949833250543%" font-size="12" fill="transparent">Arts décoratifs : 0.0354786064003406 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bois">
+        <rect x="20%" y="96.3953735897253949%" width="10%" height="0.0354786064003406%" style=" fill:rgb(0,0,198.031914893617021303)"/>
+      </a>
+      <text x="30%" y="96.3953735897253949%" font-size="12" fill="transparent">Bois : 0.0354786064003406 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Afiches">
+        <rect x="20%" y="96.4308521961257355%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,200.744680851063829814)"/>
+      </a>
+      <text x="30%" y="96.4308521961257355%" font-size="12" fill="transparent">Afiches : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Montres">
+        <rect x="20%" y="96.4379479174058036%" width="10%" height="0.0354786064003406%" style=" fill:rgb(0,0,203.457446808510638325)"/>
+      </a>
+      <text x="30%" y="96.4379479174058036%" font-size="12" fill="transparent">Montres : 0.0354786064003406 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photographie">
+        <rect x="20%" y="96.4734265238061442%" width="10%" height="0.1490101468814305%" style=" fill:rgb(0,0,206.170212765957446836)"/>
+      </a>
+      <text x="30%" y="96.4734265238061442%" font-size="12" fill="transparent">Photographie : 0.1490101468814305 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Monnaies">
+        <rect x="20%" y="96.6224366706875747%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,208.882978723404255347)"/>
+      </a>
+      <text x="30%" y="96.6224366706875747%" font-size="12" fill="transparent">Monnaies : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Affiche">
+        <rect x="20%" y="96.6295323919676428%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,211.595744680851063858)"/>
+      </a>
+      <text x="30%" y="96.6295323919676428%" font-size="12" fill="transparent">Affiche : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cadres">
+        <rect x="20%" y="96.6366281132477109%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,214.308510638297872369)"/>
+      </a>
+      <text x="30%" y="96.6366281132477109%" font-size="12" fill="transparent">Cadres : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Pastels">
+        <rect x="20%" y="96.643723834527779%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,217.02127659574468088)"/>
+      </a>
+      <text x="30%" y="96.643723834527779%" font-size="12" fill="transparent">Pastels : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Étains">
+        <rect x="20%" y="96.6508195558078471%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,219.734042553191489391)"/>
+      </a>
+      <text x="30%" y="96.6508195558078471%" font-size="12" fill="transparent">Étains : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photographies">
+        <rect x="20%" y="96.6579152770879152%" width="10%" height="1.4475271411338963%" style=" fill:rgb(0,0,222.446808510638297902)"/>
+      </a>
+      <text x="30%" y="96.6579152770879152%" font-size="12" fill="transparent">Photographies : 1.4475271411338963 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Affiches">
+        <rect x="20%" y="98.1054424182218115%" width="10%" height="0.9153480451287873%" style=" fill:rgb(0,0,225.159574468085106413)"/>
+      </a>
+      <text x="30%" y="98.1054424182218115%" font-size="12" fill="transparent">Affiches : 0.9153480451287873 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Atelier">
+        <rect x="20%" y="99.0207904633505988%" width="10%" height="0.0354786064003406%" style=" fill:rgb(0,0,227.872340425531914924)"/>
+      </a>
+      <text x="30%" y="99.0207904633505988%" font-size="12" fill="transparent">Atelier : 0.0354786064003406 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art africain">
+        <rect x="20%" y="99.0562690697509394%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,230.585106382978723435)"/>
+      </a>
+      <text x="30%" y="99.0562690697509394%" font-size="12" fill="transparent">Art africain : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Antiquités">
+        <rect x="20%" y="99.0633647910310075%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,233.297872340425531946)"/>
+      </a>
+      <text x="30%" y="99.0633647910310075%" font-size="12" fill="transparent">Antiquités : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Sculpture">
+        <rect x="20%" y="99.0704605123110756%" width="10%" height="0.0141914425601362%" style=" fill:rgb(0,0,236.010638297872340457)"/>
+      </a>
+      <text x="30%" y="99.0704605123110756%" font-size="12" fill="transparent">Sculpture : 0.0141914425601362 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts graphiques">
+        <rect x="20%" y="99.0846519548712118%" width="10%" height="0.0283828851202725%" style=" fill:rgb(0,0,238.723404255319148968)"/>
+      </a>
+      <text x="30%" y="99.0846519548712118%" font-size="12" fill="transparent">Arts graphiques : 0.0283828851202725 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Verres">
+        <rect x="20%" y="99.1130348399914843%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,241.436170212765957479)"/>
+      </a>
+      <text x="30%" y="99.1130348399914843%" font-size="12" fill="transparent">Verres : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Collection">
+        <rect x="20%" y="99.1201305612715524%" width="10%" height="0.0496700489604768%" style=" fill:rgb(0,0,244.14893617021276599)"/>
+      </a>
+      <text x="30%" y="99.1201305612715524%" font-size="12" fill="transparent">Collection : 0.0496700489604768 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Argenterie">
+        <rect x="20%" y="99.1698006102320292%" width="10%" height="0.0070957212800681%" style=" fill:rgb(0,0,246.861702127659574501)"/>
+      </a>
+      <text x="30%" y="99.1698006102320292%" font-size="12" fill="transparent">Argenterie : 0.0070957212800681 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Textiles">
+        <rect x="20%" y="99.1768963315120973%" width="10%" height="0.8018165046476974%" style=" fill:rgb(0,0,249.574468085106383012)"/>
+      </a>
+      <text x="30%" y="99.1768963315120973%" font-size="12" fill="transparent">Textiles : 0.8018165046476974 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Jouet">
+        <rect x="20%" y="99.9787128361597947%" width="10%" height="0.0212871638402044%" style=" fill:rgb(0,0,252.287234042553191523)"/>
+      </a>
+      <text x="30%" y="99.9787128361597947%" font-size="12" fill="transparent">Jouet : 0.0212871638402044 %</text>
+    </g>
+  </g>
+  <text x="40%" y="98%" fill="black">EXP1 inha+bnf</text>
+  <g class="bar" transform="translate(0 50)scale(1 0.9)">
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits orientaux">
+        <rect x="40%" y="0%" width="10%" height="0.0319098016273999%" style=" fill:rgb(0,0,0)"/>
+      </a>
+      <text x="50%" y="0%" font-size="12" fill="transparent">Manuscrits orientaux : 0.0319098016273999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes géographiques">
+        <rect x="40%" y="0.0319098016273999%" width="10%" height="0.0053183002712333%" style=" fill:rgb(1.931818181818181818,0,0)"/>
+      </a>
+      <text x="50%" y="0.0319098016273999%" font-size="12" fill="transparent">Cartes géographiques : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres illustrés">
+        <rect x="40%" y="0.0372281018986332%" width="10%" height="0.0159549008136999%" style=" fill:rgb(3.863636363636363636,0,0)"/>
+      </a>
+      <text x="50%" y="0.0372281018986332%" font-size="12" fill="transparent">Livres illustrés : 0.0159549008136999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Mobiliert">
+        <rect x="40%" y="0.0531830027123331%" width="10%" height="0.0053183002712333%" style=" fill:rgb(5.795454545454545454,0,0)"/>
+      </a>
+      <text x="50%" y="0.0531830027123331%" font-size="12" fill="transparent">Mobiliert : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=manuscrits">
+        <rect x="40%" y="0.0585013029835664%" width="10%" height="0.0372281018986332%" style=" fill:rgb(7.727272727272727272,0,0)"/>
+      </a>
+      <text x="50%" y="0.0585013029835664%" font-size="12" fill="transparent">manuscrits : 0.0372281018986332 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits">
+        <rect x="40%" y="0.0957294048821996%" width="10%" height="2.8772004467372228%" style=" fill:rgb(9.65909090909090909,0,0)"/>
+      </a>
+      <text x="50%" y="0.0957294048821996%" font-size="12" fill="transparent">Manuscrits : 2.8772004467372228 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Horlogerie">
+        <rect x="40%" y="2.9729298516194224%" width="10%" height="0.0106366005424666%" style=" fill:rgb(11.590909090909090908,0,0)"/>
+      </a>
+      <text x="50%" y="2.9729298516194224%" font-size="12" fill="transparent">Horlogerie : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=incunables">
+        <rect x="40%" y="2.983566452161889%" width="10%" height="0.0053183002712333%" style=" fill:rgb(13.522727272727272726,0,0)"/>
+      </a>
+      <text x="50%" y="2.983566452161889%" font-size="12" fill="transparent">incunables : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art du spectacle">
+        <rect x="40%" y="2.9888847524331223%" width="10%" height="0.0106366005424666%" style=" fill:rgb(15.454545454545454544,0,0)"/>
+      </a>
+      <text x="50%" y="2.9888847524331223%" font-size="12" fill="transparent">Art du spectacle : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Annonce">
+        <rect x="40%" y="2.9995213529755889%" width="10%" height="0.0053183002712333%" style=" fill:rgb(17.386363636363636362,0,0)"/>
+      </a>
+      <text x="50%" y="2.9995213529755889%" font-size="12" fill="transparent">Annonce : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Mode">
+        <rect x="40%" y="3.0048396532468222%" width="10%" height="0.0053183002712333%" style=" fill:rgb(19.31818181818181818,0,0)"/>
+      </a>
+      <text x="50%" y="3.0048396532468222%" font-size="12" fill="transparent">Mode : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bibjoux">
+        <rect x="40%" y="3.0101579535180555%" width="10%" height="0.0265915013561666%" style=" fill:rgb(21.249999999999999998,0,0)"/>
+      </a>
+      <text x="50%" y="3.0101579535180555%" font-size="12" fill="transparent">Bibjoux : 0.0265915013561666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=livres hébreux">
+        <rect x="40%" y="3.0367494548742221%" width="10%" height="0.0053183002712333%" style=" fill:rgb(23.181818181818181816,0,0)"/>
+      </a>
+      <text x="50%" y="3.0367494548742221%" font-size="12" fill="transparent">livres hébreux : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objerts d'art">
+        <rect x="40%" y="3.0420677551454554%" width="10%" height="0.0053183002712333%" style=" fill:rgb(25.113636363636363634,0,0)"/>
+      </a>
+      <text x="50%" y="3.0420677551454554%" font-size="12" fill="transparent">Objerts d'art : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art">
+        <rect x="40%" y="3.0473860554166887%" width="10%" height="51.4811466255384779%" style=" fill:rgb(27.045454545454545452,0,0)"/>
+      </a>
+      <text x="50%" y="3.0473860554166887%" font-size="12" fill="transparent">Art : 51.4811466255384779 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Maroquinerie">
+        <rect x="40%" y="54.5285326809551666%" width="10%" height="0.0053183002712333%" style=" fill:rgb(28.97727272727272727,0,0)"/>
+      </a>
+      <text x="50%" y="54.5285326809551666%" font-size="12" fill="transparent">Maroquinerie : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=art">
+        <rect x="40%" y="54.5338509812263999%" width="10%" height="0.0478647024410998%" style=" fill:rgb(30.909090909090909088,0,0)"/>
+      </a>
+      <text x="50%" y="54.5338509812263999%" font-size="12" fill="transparent">art : 0.0478647024410998 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bijouxr">
+        <rect x="40%" y="54.5817156836674997%" width="10%" height="0.0106366005424666%" style=" fill:rgb(32.840909090909090906,0,0)"/>
+      </a>
+      <text x="50%" y="54.5817156836674997%" font-size="12" fill="transparent">Bijouxr : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Musique">
+        <rect x="40%" y="54.5923522842099663%" width="10%" height="0.7179705366164974%" style=" fill:rgb(34.772727272727272724,0,0)"/>
+      </a>
+      <text x="50%" y="54.5923522842099663%" font-size="12" fill="transparent">Musique : 0.7179705366164974 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Tapisseries">
+        <rect x="40%" y="55.3103228208264637%" width="10%" height="0.0053183002712333%" style=" fill:rgb(36.704545454545454542,0,0)"/>
+      </a>
+      <text x="50%" y="55.3103228208264637%" font-size="12" fill="transparent">Tapisseries : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bijouxs">
+        <rect x="40%" y="55.315641121097697%" width="10%" height="0.0053183002712333%" style=" fill:rgb(38.63636363636363636,0,0)"/>
+      </a>
+      <text x="50%" y="55.315641121097697%" font-size="12" fill="transparent">Bijouxs : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Militaria">
+        <rect x="40%" y="55.3209594213689303%" width="10%" height="0.0106366005424666%" style=" fill:rgb(40.568181818181818178,0,0)"/>
+      </a>
+      <text x="50%" y="55.3209594213689303%" font-size="12" fill="transparent">Militaria : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Peintures">
+        <rect x="40%" y="55.3315960219113969%" width="10%" height="0.0744562037972664%" style=" fill:rgb(42.499999999999999996,0,0)"/>
+      </a>
+      <text x="50%" y="55.3315960219113969%" font-size="12" fill="transparent">Peintures : 0.0744562037972664 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=art juif">
+        <rect x="40%" y="55.4060522257086633%" width="10%" height="0.0053183002712333%" style=" fill:rgb(44.431818181818181814,0,0)"/>
+      </a>
+      <text x="50%" y="55.4060522257086633%" font-size="12" fill="transparent">art juif : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art juif">
+        <rect x="40%" y="55.4113705259798966%" width="10%" height="0.0053183002712333%" style=" fill:rgb(46.363636363636363632,0,0)"/>
+      </a>
+      <text x="50%" y="55.4113705259798966%" font-size="12" fill="transparent">Art juif : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art pré-colombien">
+        <rect x="40%" y="55.4166888262511299%" width="10%" height="0.0053183002712333%" style=" fill:rgb(48.29545454545454545,0,0)"/>
+      </a>
+      <text x="50%" y="55.4166888262511299%" font-size="12" fill="transparent">Art pré-colombien : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Céramiques">
+        <rect x="40%" y="55.4220071265223632%" width="10%" height="0.2074137105780992%" style=" fill:rgb(50.227272727272727268,0,0)"/>
+      </a>
+      <text x="50%" y="55.4220071265223632%" font-size="12" fill="transparent">Céramiques : 0.2074137105780992 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets d'arts">
+        <rect x="40%" y="55.6294208371004624%" width="10%" height="0.0053183002712333%" style=" fill:rgb(52.159090909090909086,0,0)"/>
+      </a>
+      <text x="50%" y="55.6294208371004624%" font-size="12" fill="transparent">Objets d'arts : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Autographe">
+        <rect x="40%" y="55.6347391373716957%" width="10%" height="0.0053183002712333%" style=" fill:rgb(54.090909090909090904,0,0)"/>
+      </a>
+      <text x="50%" y="55.6347391373716957%" font-size="12" fill="transparent">Autographe : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Dessin">
+        <rect x="40%" y="55.640057437642929%" width="10%" height="0.2074137105780992%" style=" fill:rgb(56.022727272727272722,0,0)"/>
+      </a>
+      <text x="50%" y="55.640057437642929%" font-size="12" fill="transparent">Dessin : 0.2074137105780992 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Lettres">
+        <rect x="40%" y="55.8474711482210282%" width="10%" height="0.0265915013561666%" style=" fill:rgb(57.95454545454545454,0,0)"/>
+      </a>
+      <text x="50%" y="55.8474711482210282%" font-size="12" fill="transparent">Lettres : 0.0265915013561666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Estampe">
+        <rect x="40%" y="55.8740626495771948%" width="10%" height="0.0319098016273999%" style=" fill:rgb(59.886363636363636358,0,0)"/>
+      </a>
+      <text x="50%" y="55.8740626495771948%" font-size="12" fill="transparent">Estampe : 0.0319098016273999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Gouaches">
+        <rect x="40%" y="55.9059724512045947%" width="10%" height="0.0053183002712333%" style=" fill:rgb(61.818181818181818176,0,0)"/>
+      </a>
+      <text x="50%" y="55.9059724512045947%" font-size="12" fill="transparent">Gouaches : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=livres">
+        <rect x="40%" y="55.911290751475828%" width="10%" height="0.2074137105780992%" style=" fill:rgb(63.749999999999999994,0,0)"/>
+      </a>
+      <text x="50%" y="55.911290751475828%" font-size="12" fill="transparent">livres : 0.2074137105780992 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres">
+        <rect x="40%" y="56.1187044620539272%" width="10%" height="12.2001808222092219%" style=" fill:rgb(65.681818181818181812,0,0)"/>
+      </a>
+      <text x="50%" y="56.1187044620539272%" font-size="12" fill="transparent">Livres : 12.2001808222092219 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Véhicules de collection">
+        <rect x="40%" y="68.3188852842631491%" width="10%" height="0.1808222092219327%" style=" fill:rgb(67.61363636363636363,0,0)"/>
+      </a>
+      <text x="50%" y="68.3188852842631491%" font-size="12" fill="transparent">Véhicules de collection : 0.1808222092219327 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Numismatique">
+        <rect x="40%" y="68.4997074934850818%" width="10%" height="0.6701058341753975%" style=" fill:rgb(69.545454545454545448,0,0)"/>
+      </a>
+      <text x="50%" y="68.4997074934850818%" font-size="12" fill="transparent">Numismatique : 0.6701058341753975 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Partitions">
+        <rect x="40%" y="69.1698133276604793%" width="10%" height="0.0053183002712333%" style=" fill:rgb(71.477272727272727266,0,0)"/>
+      </a>
+      <text x="50%" y="69.1698133276604793%" font-size="12" fill="transparent">Partitions : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=ManuscritsmMoulins">
+        <rect x="40%" y="69.1751316279317126%" width="10%" height="0.0053183002712333%" style=" fill:rgb(73.409090909090909084,0,0)"/>
+      </a>
+      <text x="50%" y="69.1751316279317126%" font-size="12" fill="transparent">ManuscritsmMoulins : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=manuscrits hébreux">
+        <rect x="40%" y="69.1804499282029459%" width="10%" height="0.0053183002712333%" style=" fill:rgb(75.340909090909090902,0,0)"/>
+      </a>
+      <text x="50%" y="69.1804499282029459%" font-size="12" fill="transparent">manuscrits hébreux : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Éventails">
+        <rect x="40%" y="69.1857682284741792%" width="10%" height="0.0053183002712333%" style=" fill:rgb(77.27272727272727272,0,0)"/>
+      </a>
+      <text x="50%" y="69.1857682284741792%" font-size="12" fill="transparent">Éventails : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres imprimés">
+        <rect x="40%" y="69.1910865287454125%" width="10%" height="0.0106366005424666%" style=" fill:rgb(79.204545454545454538,0,0)"/>
+      </a>
+      <text x="50%" y="69.1910865287454125%" font-size="12" fill="transparent">Livres imprimés : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Minéraux">
+        <rect x="40%" y="69.2017231292878791%" width="10%" height="0.0106366005424666%" style=" fill:rgb(81.136363636363636356,0,0)"/>
+      </a>
+      <text x="50%" y="69.2017231292878791%" font-size="12" fill="transparent">Minéraux : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Eléments architecturaux">
+        <rect x="40%" y="69.2123597298303457%" width="10%" height="0.0053183002712333%" style=" fill:rgb(83.068181818181818174,0,0)"/>
+      </a>
+      <text x="50%" y="69.2123597298303457%" font-size="12" fill="transparent">Eléments architecturaux : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Armes">
+        <rect x="40%" y="69.217678030101579%" width="10%" height="0.7232888368877307%" style=" fill:rgb(84.999999999999999992,0,0)"/>
+      </a>
+      <text x="50%" y="69.217678030101579%" font-size="12" fill="transparent">Armes : 0.7232888368877307 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Physique">
+        <rect x="40%" y="69.9409668669893097%" width="10%" height="0.1063660054246663%" style=" fill:rgb(86.93181818181818181,0,0)"/>
+      </a>
+      <text x="50%" y="69.9409668669893097%" font-size="12" fill="transparent">Physique : 0.1063660054246663 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Véhicules">
+        <rect x="40%" y="70.047332872413976%" width="10%" height="0.0159549008136999%" style=" fill:rgb(88.863636363636363628,0,0)"/>
+      </a>
+      <text x="50%" y="70.047332872413976%" font-size="12" fill="transparent">Véhicules : 0.0159549008136999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Gravures">
+        <rect x="40%" y="70.0632877732276759%" width="10%" height="0.0212732010849333%" style=" fill:rgb(90.795454545454545446,0,0)"/>
+      </a>
+      <text x="50%" y="70.0632877732276759%" font-size="12" fill="transparent">Gravures : 0.0212732010849333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes postales">
+        <rect x="40%" y="70.0845609743126092%" width="10%" height="0.101047705153433%" style=" fill:rgb(92.727272727272727264,0,0)"/>
+      </a>
+      <text x="50%" y="70.0845609743126092%" font-size="12" fill="transparent">Cartes postales : 0.101047705153433 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes Postales">
+        <rect x="40%" y="70.1856086794660422%" width="10%" height="0.0053183002712333%" style=" fill:rgb(94.659090909090909082,0,0)"/>
+      </a>
+      <text x="50%" y="70.1856086794660422%" font-size="12" fill="transparent">Cartes Postales : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photograpies">
+        <rect x="40%" y="70.1909269797372755%" width="10%" height="0.0053183002712333%" style=" fill:rgb(96.5909090909090909,0,0)"/>
+      </a>
+      <text x="50%" y="70.1909269797372755%" font-size="12" fill="transparent">Photograpies : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livre">
+        <rect x="40%" y="70.1962452800085088%" width="10%" height="0.0691379035260331%" style=" fill:rgb(98.522727272727272718,0,0)"/>
+      </a>
+      <text x="50%" y="70.1962452800085088%" font-size="12" fill="transparent">Livre : 0.0691379035260331 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=livre">
+        <rect x="40%" y="70.2653831835345419%" width="10%" height="0.0053183002712333%" style=" fill:rgb(100.454545454545454536,0,0)"/>
+      </a>
+      <text x="50%" y="70.2653831835345419%" font-size="12" fill="transparent">livre : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Phiebig">
+        <rect x="40%" y="70.2707014838057752%" width="10%" height="0.0053183002712333%" style=" fill:rgb(102.386363636363636354,0,0)"/>
+      </a>
+      <text x="50%" y="70.2707014838057752%" font-size="12" fill="transparent">Phiebig : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Numismatiquet">
+        <rect x="40%" y="70.2760197840770085%" width="10%" height="0.0053183002712333%" style=" fill:rgb(104.318181818181818172,0,0)"/>
+      </a>
+      <text x="50%" y="70.2760197840770085%" font-size="12" fill="transparent">Numismatiquet : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Estampes">
+        <rect x="40%" y="70.2813380843482418%" width="10%" height="2.542147529649524%" style=" fill:rgb(106.24999999999999999,0,0)"/>
+      </a>
+      <text x="50%" y="70.2813380843482418%" font-size="12" fill="transparent">Estampes : 2.542147529649524 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits.">
+        <rect x="40%" y="72.8234856139977658%" width="10%" height="0.0053183002712333%" style=" fill:rgb(108.181818181818181808,0,0)"/>
+      </a>
+      <text x="50%" y="72.8234856139977658%" font-size="12" fill="transparent">Manuscrits. : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Artisanat">
+        <rect x="40%" y="72.8288039142689991%" width="10%" height="0.0053183002712333%" style=" fill:rgb(110.113636363636363626,0,0)"/>
+      </a>
+      <text x="50%" y="72.8288039142689991%" font-size="12" fill="transparent">Artisanat : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets">
+        <rect x="40%" y="72.8341222145402324%" width="10%" height="0.1329575067808328%" style=" fill:rgb(112.045454545454545444,0,0)"/>
+      </a>
+      <text x="50%" y="72.8341222145402324%" font-size="12" fill="transparent">Objets : 0.1329575067808328 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Dessins">
+        <rect x="40%" y="72.9670797213210652%" width="10%" height="2.9569749508057225%" style=" fill:rgb(113.977272727272727262,0,0)"/>
+      </a>
+      <text x="50%" y="72.9670797213210652%" font-size="12" fill="transparent">Dessins : 2.9569749508057225 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Autographes">
+        <rect x="40%" y="75.9240546721267877%" width="10%" height="3.0314311546029889%" style=" fill:rgb(115.90909090909090908,0,0)"/>
+      </a>
+      <text x="50%" y="75.9240546721267877%" font-size="12" fill="transparent">Autographes : 3.0314311546029889 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Histoire naturelle">
+        <rect x="40%" y="78.9554858267297766%" width="10%" height="0.0053183002712333%" style=" fill:rgb(117.840909090909090898,0,0)"/>
+      </a>
+      <text x="50%" y="78.9554858267297766%" font-size="12" fill="transparent">Histoire naturelle : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Elzevier library">
+        <rect x="40%" y="78.9608041270010099%" width="10%" height="0.0053183002712333%" style=" fill:rgb(119.772727272727272716,0,0)"/>
+      </a>
+      <text x="50%" y="78.9608041270010099%" font-size="12" fill="transparent">Elzevier library : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Archéologie">
+        <rect x="40%" y="78.9661224272722432%" width="10%" height="0.3775993192575653%" style=" fill:rgb(121.704545454545454534,0,0)"/>
+      </a>
+      <text x="50%" y="78.9661224272722432%" font-size="12" fill="transparent">Archéologie : 0.3775993192575653 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets d'art">
+        <rect x="40%" y="79.3437217465298085%" width="10%" height="0.0531830027123331%" style=" fill:rgb(123.636363636363636352,0,0)"/>
+      </a>
+      <text x="50%" y="79.3437217465298085%" font-size="12" fill="transparent">Objets d'art : 0.0531830027123331 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Céramique">
+        <rect x="40%" y="79.3969047492421416%" width="10%" height="2.0528639046960591%" style=" fill:rgb(125.56818181818181817,0,0)"/>
+      </a>
+      <text x="50%" y="79.3969047492421416%" font-size="12" fill="transparent">Céramique : 2.0528639046960591 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Tapis">
+        <rect x="40%" y="81.4497686539382007%" width="10%" height="0.0053183002712333%" style=" fill:rgb(127.499999999999999988,0,0)"/>
+      </a>
+      <text x="50%" y="81.4497686539382007%" font-size="12" fill="transparent">Tapis : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Timbres-poste">
+        <rect x="40%" y="81.455086954209434%" width="10%" height="0.0319098016273999%" style=" fill:rgb(129.431818181818181806,0,0)"/>
+      </a>
+      <text x="50%" y="81.455086954209434%" font-size="12" fill="transparent">Timbres-poste : 0.0319098016273999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art océanien">
+        <rect x="40%" y="81.4869967558368339%" width="10%" height="0.0053183002712333%" style=" fill:rgb(131.363636363636363624,0,0)"/>
+      </a>
+      <text x="50%" y="81.4869967558368339%" font-size="12" fill="transparent">Art océanien : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Peinture">
+        <rect x="40%" y="81.4923150561080672%" width="10%" height="0.0053183002712333%" style=" fill:rgb(133.295454545454545442,0,0)"/>
+      </a>
+      <text x="50%" y="81.4923150561080672%" font-size="12" fill="transparent">Peinture : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts decoratifs">
+        <rect x="40%" y="81.4976333563793005%" width="10%" height="0.0106366005424666%" style=" fill:rgb(135.22727272727272726,0,0)"/>
+      </a>
+      <text x="50%" y="81.4976333563793005%" font-size="12" fill="transparent">Arts decoratifs : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Poupées">
+        <rect x="40%" y="81.5082699569217671%" width="10%" height="0.0053183002712333%" style=" fill:rgb(137.159090909090909078,0,0)"/>
+      </a>
+      <text x="50%" y="81.5082699569217671%" font-size="12" fill="transparent">Poupées : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits autographes">
+        <rect x="40%" y="81.5135882571930004%" width="10%" height="0.0053183002712333%" style=" fill:rgb(139.090909090909090896,0,0)"/>
+      </a>
+      <text x="50%" y="81.5135882571930004%" font-size="12" fill="transparent">Manuscrits autographes : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cartes">
+        <rect x="40%" y="81.5189065574642337%" width="10%" height="0.1967771100356326%" style=" fill:rgb(141.022727272727272714,0,0)"/>
+      </a>
+      <text x="50%" y="81.5189065574642337%" font-size="12" fill="transparent">Cartes : 0.1967771100356326 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Tapisserie">
+        <rect x="40%" y="81.7156836674998663%" width="10%" height="0.0106366005424666%" style=" fill:rgb(142.954545454545454532,0,0)"/>
+      </a>
+      <text x="50%" y="81.7156836674998663%" font-size="12" fill="transparent">Tapisserie : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bijoux">
+        <rect x="40%" y="81.7263202680423329%" width="10%" height="4.898154549805882%" style=" fill:rgb(144.88636363636363635,0,0)"/>
+      </a>
+      <text x="50%" y="81.7263202680423329%" font-size="12" fill="transparent">Bijoux : 4.898154549805882 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts">
+        <rect x="40%" y="86.6244748178482149%" width="10%" height="0.0159549008136999%" style=" fill:rgb(146.818181818181818168,0,0)"/>
+      </a>
+      <text x="50%" y="86.6244748178482149%" font-size="12" fill="transparent">Arts : 0.0159549008136999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=cCéramique">
+        <rect x="40%" y="86.6404297186619148%" width="10%" height="0.0053183002712333%" style=" fill:rgb(148.749999999999999986,0,0)"/>
+      </a>
+      <text x="50%" y="86.6404297186619148%" font-size="12" fill="transparent">cCéramique : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Archives">
+        <rect x="40%" y="86.6457480189331481%" width="10%" height="0.0053183002712333%" style=" fill:rgb(150.681818181818181804,0,0)"/>
+      </a>
+      <text x="50%" y="86.6457480189331481%" font-size="12" fill="transparent">Archives : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Ex-libris">
+        <rect x="40%" y="86.6510663192043814%" width="10%" height="0.0106366005424666%" style=" fill:rgb(152.613636363636363622,0,0)"/>
+      </a>
+      <text x="50%" y="86.6510663192043814%" font-size="12" fill="transparent">Ex-libris : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrit">
+        <rect x="40%" y="86.661702919746848%" width="10%" height="0.0106366005424666%" style=" fill:rgb(154.54545454545454544,0,0)"/>
+      </a>
+      <text x="50%" y="86.661702919746848%" font-size="12" fill="transparent">Manuscrit : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photograhies">
+        <rect x="40%" y="86.6723395202893146%" width="10%" height="0.0053183002712333%" style=" fill:rgb(156.477272727272727258,0,0)"/>
+      </a>
+      <text x="50%" y="86.6723395202893146%" font-size="12" fill="transparent">Photograhies : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Animaux">
+        <rect x="40%" y="86.6776578205605479%" width="10%" height="0.1063660054246663%" style=" fill:rgb(158.409090909090909076,0,0)"/>
+      </a>
+      <text x="50%" y="86.6776578205605479%" font-size="12" fill="transparent">Animaux : 0.1063660054246663 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Mobilier">
+        <rect x="40%" y="86.7840238259852142%" width="10%" height="7.6317608892198054%" style=" fill:rgb(160.340909090909090894,0,0)"/>
+      </a>
+      <text x="50%" y="86.7840238259852142%" font-size="12" fill="transparent">Mobilier : 7.6317608892198054 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Jouets">
+        <rect x="40%" y="94.4157847152050196%" width="10%" height="0.2180503111205659%" style=" fill:rgb(162.272727272727272712,0,0)"/>
+      </a>
+      <text x="50%" y="94.4157847152050196%" font-size="12" fill="transparent">Jouets : 0.2180503111205659 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Meubles">
+        <rect x="40%" y="94.6338350263255855%" width="10%" height="0.0691379035260331%" style=" fill:rgb(164.20454545454545453,0,0)"/>
+      </a>
+      <text x="50%" y="94.6338350263255855%" font-size="12" fill="transparent">Meubles : 0.0691379035260331 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Miniatures">
+        <rect x="40%" y="94.7029729298516186%" width="10%" height="0.0425464021698665%" style=" fill:rgb(166.136363636363636348,0,0)"/>
+      </a>
+      <text x="50%" y="94.7029729298516186%" font-size="12" fill="transparent">Miniatures : 0.0425464021698665 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Curiosités">
+        <rect x="40%" y="94.7455193320214851%" width="10%" height="0.0053183002712333%" style=" fill:rgb(168.068181818181818166,0,0)"/>
+      </a>
+      <text x="50%" y="94.7455193320214851%" font-size="12" fill="transparent">Curiosités : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Musique (partitions)">
+        <rect x="40%" y="94.7508376322927184%" width="10%" height="0.0053183002712333%" style=" fill:rgb(169.999999999999999984,0,0)"/>
+      </a>
+      <text x="50%" y="94.7508376322927184%" font-size="12" fill="transparent">Musique (partitions) : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cirque">
+        <rect x="40%" y="94.7561559325639517%" width="10%" height="0.0053183002712333%" style=" fill:rgb(171.931818181818181802,0,0)"/>
+      </a>
+      <text x="50%" y="94.7561559325639517%" font-size="12" fill="transparent">Cirque : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres (recueil)">
+        <rect x="40%" y="94.761474232835185%" width="10%" height="0.0053183002712333%" style=" fill:rgb(173.86363636363636362,0,0)"/>
+      </a>
+      <text x="50%" y="94.761474232835185%" font-size="12" fill="transparent">Livres (recueil) : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Textile">
+        <rect x="40%" y="94.7667925331064183%" width="10%" height="0.0585013029835665%" style=" fill:rgb(175.795454545454545438,0,0)"/>
+      </a>
+      <text x="50%" y="94.7667925331064183%" font-size="12" fill="transparent">Textile : 0.0585013029835665 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=divers">
+        <rect x="40%" y="94.8252938360899848%" width="10%" height="0.0053183002712333%" style=" fill:rgb(177.727272727272727256,0,0)"/>
+      </a>
+      <text x="50%" y="94.8252938360899848%" font-size="12" fill="transparent">divers : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Divers">
+        <rect x="40%" y="94.8306121363612181%" width="10%" height="0.0797745040684997%" style=" fill:rgb(179.659090909090909074,0,0)"/>
+      </a>
+      <text x="50%" y="94.8306121363612181%" font-size="12" fill="transparent">Divers : 0.0797745040684997 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts du spectacle">
+        <rect x="40%" y="94.9103866404297178%" width="10%" height="0.1755039089506994%" style=" fill:rgb(181.590909090909090892,0,0)"/>
+      </a>
+      <text x="50%" y="94.9103866404297178%" font-size="12" fill="transparent">Arts du spectacle : 0.1755039089506994 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Tableaux">
+        <rect x="40%" y="95.0858905493804172%" width="10%" height="0.0212732010849333%" style=" fill:rgb(183.52272727272727271,0,0)"/>
+      </a>
+      <text x="50%" y="95.0858905493804172%" font-size="12" fill="transparent">Tableaux : 0.0212732010849333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=judaica, manuscrits hébreux">
+        <rect x="40%" y="95.1071637504653505%" width="10%" height="0.0053183002712333%" style=" fill:rgb(185.454545454545454528,0,0)"/>
+      </a>
+      <text x="50%" y="95.1071637504653505%" font-size="12" fill="transparent">judaica, manuscrits hébreux : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Timbres">
+        <rect x="40%" y="95.1124820507365838%" width="10%" height="0.0053183002712333%" style=" fill:rgb(187.386363636363636346,0,0)"/>
+      </a>
+      <text x="50%" y="95.1124820507365838%" font-size="12" fill="transparent">Timbres : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Objets de pharmacie">
+        <rect x="40%" y="95.1178003510078171%" width="10%" height="0.0053183002712333%" style=" fill:rgb(189.318181818181818164,0,0)"/>
+      </a>
+      <text x="50%" y="95.1178003510078171%" font-size="12" fill="transparent">Objets de pharmacie : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Sculptures">
+        <rect x="40%" y="95.1231186512790504%" width="10%" height="0.0265915013561666%" style=" fill:rgb(191.249999999999999982,0,0)"/>
+      </a>
+      <text x="50%" y="95.1231186512790504%" font-size="12" fill="transparent">Sculptures : 0.0265915013561666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts décoratifs">
+        <rect x="40%" y="95.149710152635217%" width="10%" height="0.0265915013561666%" style=" fill:rgb(193.1818181818181818,0,0)"/>
+      </a>
+      <text x="50%" y="95.149710152635217%" font-size="12" fill="transparent">Arts décoratifs : 0.0265915013561666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bois">
+        <rect x="40%" y="95.1763016539913836%" width="10%" height="0.0265915013561666%" style=" fill:rgb(195.113636363636363618,0,0)"/>
+      </a>
+      <text x="50%" y="95.1763016539913836%" font-size="12" fill="transparent">Bois : 0.0265915013561666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Afiches">
+        <rect x="40%" y="95.2028931553475502%" width="10%" height="0.0053183002712333%" style=" fill:rgb(197.045454545454545436,0,0)"/>
+      </a>
+      <text x="50%" y="95.2028931553475502%" font-size="12" fill="transparent">Afiches : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Reliure">
+        <rect x="40%" y="95.2082114556187835%" width="10%" height="0.0106366005424666%" style=" fill:rgb(198.977272727272727254,0,0)"/>
+      </a>
+      <text x="50%" y="95.2082114556187835%" font-size="12" fill="transparent">Reliure : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Montres">
+        <rect x="40%" y="95.2188480561612501%" width="10%" height="0.0265915013561666%" style=" fill:rgb(200.909090909090909072,0,0)"/>
+      </a>
+      <text x="50%" y="95.2188480561612501%" font-size="12" fill="transparent">Montres : 0.0265915013561666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photographie">
+        <rect x="40%" y="95.2454395575174167%" width="10%" height="0.1276392065095995%" style=" fill:rgb(202.84090909090909089,0,0)"/>
+      </a>
+      <text x="50%" y="95.2454395575174167%" font-size="12" fill="transparent">Photographie : 0.1276392065095995 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Monnaies">
+        <rect x="40%" y="95.3730787640270162%" width="10%" height="0.0053183002712333%" style=" fill:rgb(204.772727272727272708,0,0)"/>
+      </a>
+      <text x="50%" y="95.3730787640270162%" font-size="12" fill="transparent">Monnaies : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Vins">
+        <rect x="40%" y="95.3783970642982495%" width="10%" height="0.0159549008136999%" style=" fill:rgb(206.704545454545454526,0,0)"/>
+      </a>
+      <text x="50%" y="95.3783970642982495%" font-size="12" fill="transparent">Vins : 0.0159549008136999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Affiche">
+        <rect x="40%" y="95.3943519651119494%" width="10%" height="0.0053183002712333%" style=" fill:rgb(208.636363636363636344,0,0)"/>
+      </a>
+      <text x="50%" y="95.3943519651119494%" font-size="12" fill="transparent">Affiche : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Cadres">
+        <rect x="40%" y="95.3996702653831827%" width="10%" height="0.0053183002712333%" style=" fill:rgb(210.568181818181818162,0,0)"/>
+      </a>
+      <text x="50%" y="95.3996702653831827%" font-size="12" fill="transparent">Cadres : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Pastels">
+        <rect x="40%" y="95.404988565654416%" width="10%" height="0.0053183002712333%" style=" fill:rgb(212.49999999999999998,0,0)"/>
+      </a>
+      <text x="50%" y="95.404988565654416%" font-size="12" fill="transparent">Pastels : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Étains">
+        <rect x="40%" y="95.4103068659256493%" width="10%" height="0.0053183002712333%" style=" fill:rgb(214.431818181818181798,0,0)"/>
+      </a>
+      <text x="50%" y="95.4103068659256493%" font-size="12" fill="transparent">Étains : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Photographies">
+        <rect x="40%" y="95.4156251661968826%" width="10%" height="2.3187789182577248%" style=" fill:rgb(216.363636363636363616,0,0)"/>
+      </a>
+      <text x="50%" y="95.4156251661968826%" font-size="12" fill="transparent">Photographies : 2.3187789182577248 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=photographies">
+        <rect x="40%" y="97.7344040844546074%" width="10%" height="0.0319098016273999%" style=" fill:rgb(218.295454545454545434,0,0)"/>
+      </a>
+      <text x="50%" y="97.7344040844546074%" font-size="12" fill="transparent">photographies : 0.0319098016273999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=reliures">
+        <rect x="40%" y="97.7663138860820073%" width="10%" height="0.0159549008136999%" style=" fill:rgb(220.227272727272727252,0,0)"/>
+      </a>
+      <text x="50%" y="97.7663138860820073%" font-size="12" fill="transparent">reliures : 0.0159549008136999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Reliures">
+        <rect x="40%" y="97.7822687868957072%" width="10%" height="0.0212732010849333%" style=" fill:rgb(222.15909090909090907,0,0)"/>
+      </a>
+      <text x="50%" y="97.7822687868957072%" font-size="12" fill="transparent">Reliures : 0.0212732010849333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=affiches">
+        <rect x="40%" y="97.8035419879806405%" width="10%" height="0.0053183002712333%" style=" fill:rgb(224.090909090909090888,0,0)"/>
+      </a>
+      <text x="50%" y="97.8035419879806405%" font-size="12" fill="transparent">affiches : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Affiches">
+        <rect x="40%" y="97.8088602882518738%" width="10%" height="1.3774397702494283%" style=" fill:rgb(226.022727272727272706,0,0)"/>
+      </a>
+      <text x="50%" y="97.8088602882518738%" font-size="12" fill="transparent">Affiches : 1.3774397702494283 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Atelier">
+        <rect x="40%" y="99.1863000585013021%" width="10%" height="0.0265915013561666%" style=" fill:rgb(227.954545454545454524,0,0)"/>
+      </a>
+      <text x="50%" y="99.1863000585013021%" font-size="12" fill="transparent">Atelier : 0.0265915013561666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Pièces de théâtre">
+        <rect x="40%" y="99.2128915598574687%" width="10%" height="0.0053183002712333%" style=" fill:rgb(229.886363636363636342,0,0)"/>
+      </a>
+      <text x="50%" y="99.2128915598574687%" font-size="12" fill="transparent">Pièces de théâtre : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art africain">
+        <rect x="40%" y="99.218209860128702%" width="10%" height="0.0053183002712333%" style=" fill:rgb(231.81818181818181816,0,0)"/>
+      </a>
+      <text x="50%" y="99.218209860128702%" font-size="12" fill="transparent">Art africain : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Antiquités">
+        <rect x="40%" y="99.2235281603999353%" width="10%" height="0.0053183002712333%" style=" fill:rgb(233.749999999999999978,0,0)"/>
+      </a>
+      <text x="50%" y="99.2235281603999353%" font-size="12" fill="transparent">Antiquités : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Sculpture">
+        <rect x="40%" y="99.2288464606711686%" width="10%" height="0.0106366005424666%" style=" fill:rgb(235.681818181818181796,0,0)"/>
+      </a>
+      <text x="50%" y="99.2288464606711686%" font-size="12" fill="transparent">Sculpture : 0.0106366005424666 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Aquarelles">
+        <rect x="40%" y="99.2394830612136352%" width="10%" height="0.0531830027123331%" style=" fill:rgb(237.613636363636363614,0,0)"/>
+      </a>
+      <text x="50%" y="99.2394830612136352%" font-size="12" fill="transparent">Aquarelles : 0.0531830027123331 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Arts graphiques">
+        <rect x="40%" y="99.2926660639259683%" width="10%" height="0.0212732010849333%" style=" fill:rgb(239.545454545454545432,0,0)"/>
+      </a>
+      <text x="50%" y="99.2926660639259683%" font-size="12" fill="transparent">Arts graphiques : 0.0212732010849333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Haute-couture">
+        <rect x="40%" y="99.3139392650109016%" width="10%" height="0.0159549008136999%" style=" fill:rgb(241.47727272727272725,0,0)"/>
+      </a>
+      <text x="50%" y="99.3139392650109016%" font-size="12" fill="transparent">Haute-couture : 0.0159549008136999 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Porcelaines">
+        <rect x="40%" y="99.3298941658246015%" width="10%" height="0.0053183002712333%" style=" fill:rgb(243.409090909090909068,0,0)"/>
+      </a>
+      <text x="50%" y="99.3298941658246015%" font-size="12" fill="transparent">Porcelaines : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Verres">
+        <rect x="40%" y="99.3352124660958348%" width="10%" height="0.0053183002712333%" style=" fill:rgb(245.340909090909090886,0,0)"/>
+      </a>
+      <text x="50%" y="99.3352124660958348%" font-size="12" fill="transparent">Verres : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Collection">
+        <rect x="40%" y="99.3405307663670681%" width="10%" height="0.0372281018986332%" style=" fill:rgb(247.272727272727272704,0,0)"/>
+      </a>
+      <text x="50%" y="99.3405307663670681%" font-size="12" fill="transparent">Collection : 0.0372281018986332 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Argenterie">
+        <rect x="40%" y="99.3777588682657013%" width="10%" height="0.0053183002712333%" style=" fill:rgb(249.204545454545454522,0,0)"/>
+      </a>
+      <text x="50%" y="99.3777588682657013%" font-size="12" fill="transparent">Argenterie : 0.0053183002712333 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Textiles">
+        <rect x="40%" y="99.3830771685369346%" width="10%" height="0.6009679306493645%" style=" fill:rgb(251.13636363636363634,0,0)"/>
+      </a>
+      <text x="50%" y="99.3830771685369346%" font-size="12" fill="transparent">Textiles : 0.6009679306493645 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Jouet">
+        <rect x="40%" y="99.9840450991862991%" width="10%" height="0.0159549008136999%" style=" fill:rgb(253.068181818181818158,0,0)"/>
+      </a>
+      <text x="50%" y="99.9840450991862991%" font-size="12" fill="transparent">Jouet : 0.0159549008136999 %</text>
+    </g>
+  </g>
+  <text x="60%" y="98%" fill="black">EXP2 bnf</text>
+  <g class="bar" transform="translate(0 50)scale(1 0.9)">
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Bruxelles">
+        <rect x="60%" y="0%" width="10%" height="0.182648401826484%" style=" fill:rgb(0,0,0)"/>
+      </a>
+      <text x="70%" y="0%" font-size="12" fill="transparent">Bruxelles : 0.182648401826484 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Manuscrits">
+        <rect x="60%" y="0.182648401826484%" width="10%" height="0.182648401826484%" style=" fill:rgb(25.5,0,25.5)"/>
+      </a>
+      <text x="70%" y="0.182648401826484%" font-size="12" fill="transparent">Manuscrits : 0.182648401826484 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Art">
+        <rect x="60%" y="0.365296803652968%" width="10%" height="74.5205479452054795%" style=" fill:rgb(51,0,51)"/>
+      </a>
+      <text x="70%" y="0.365296803652968%" font-size="12" fill="transparent">Art : 74.5205479452054795 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=art">
+        <rect x="60%" y="74.8858447488584475%" width="10%" height="0.091324200913242%" style=" fill:rgb(76.5,0,76.5)"/>
+      </a>
+      <text x="70%" y="74.8858447488584475%" font-size="12" fill="transparent">art : 0.091324200913242 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Musique">
+        <rect x="60%" y="74.9771689497716895%" width="10%" height="0.273972602739726%" style=" fill:rgb(102,0,102)"/>
+      </a>
+      <text x="70%" y="74.9771689497716895%" font-size="12" fill="transparent">Musique : 0.273972602739726 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=livres">
+        <rect x="60%" y="75.2511415525114155%" width="10%" height="0.091324200913242%" style=" fill:rgb(127.5,0,127.5)"/>
+      </a>
+      <text x="70%" y="75.2511415525114155%" font-size="12" fill="transparent">livres : 0.091324200913242 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Livres">
+        <rect x="60%" y="75.3424657534246575%" width="10%" height="3.3789954337899543%" style=" fill:rgb(153,0,153)"/>
+      </a>
+      <text x="70%" y="75.3424657534246575%" font-size="12" fill="transparent">Livres : 3.3789954337899543 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Numismatique">
+        <rect x="60%" y="78.7214611872146118%" width="10%" height="20.273972602739726%" style=" fill:rgb(178.5,0,178.5)"/>
+      </a>
+      <text x="70%" y="78.7214611872146118%" font-size="12" fill="transparent">Numismatique : 20.273972602739726 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Estampes">
+        <rect x="60%" y="98.9954337899543378%" width="10%" height="0.5479452054794521%" style=" fill:rgb(204,0,204)"/>
+      </a>
+      <text x="70%" y="98.9954337899543378%" font-size="12" fill="transparent">Estampes : 0.5479452054794521 %</text>
+    </g>
+    <g class="pie">
+      <a href="https://www.google.fr/search?q=Autographes">
+        <rect x="60%" y="99.5433789954337899%" width="10%" height="0.45662100456621%" style=" fill:rgb(229.5,0,229.5)"/>
+      </a>
+      <text x="70%" y="99.5433789954337899%" font-size="12" fill="transparent">Autographes : 0.45662100456621 %</text>
+    </g>
+  </g>
+</svg>

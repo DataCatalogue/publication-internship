@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Document</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+        integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+        integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+        crossorigin=""></script>
+</head>
+
+<body>
+    <div id="map"></div>
+</body>
+<style>
+    #map {
+        height: 180vh;
+    }
+</style>
+<script>
+
+    
+    
+    var map = L.map('map').setView([47.383331, 0.68333], 5);
+    L.tileLayer(
+        "https://wxs.ign.fr/pratique/geoportail/wmts?" +
+        "&REQUEST=GetTile&SERVICE=WMTS&VERSION=1.0.0" +
+        "&STYLE=normal" +
+        "&TILEMATRIXSET=PM" +
+        "&FORMAT=image/jpeg" +
+        "&LAYER=ORTHOIMAGERY.ORTHOPHOTOS" +
+        "&TILEMATRIX={z}" +
+        "&TILEROW={y}" +
+        "&TILECOL={x}",
+        {
+
+            maxZoom: 20,
+            attribution: "IGN-F/Geoportail",
+
+        }
+    ).addTo(map);
+    fetch("./export.json")
+            .then(response => {
+                return response.json();
+            })
+            .then(jsondata => { for ( key in jsondata) {
+            
+            
+                try {              
+                var circle = L.circle([jsondata[key]['lat'], jsondata[key]['lgn']], {
+                    color: 'red',
+                    fillColor: '#f03',
+                    fillOpacity: 0.5,
+                    radius: jsondata[key]['count']*100,
+                    bindPopup:"hey"
+                }).addTo(map);
+                circle.bindPopup(key)
+                } catch (error) {
+                    console.error("error");
+            
+            
+            
+        }}});
+ 
+</script>
+
+</html>

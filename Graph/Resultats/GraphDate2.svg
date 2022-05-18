@@ -1,0 +1,1446 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <style>line{stroke:black}.legend rect{fill:white;opacity:0.8}</style>
+  <g>
+    <g>
+      <text class="GridX" x="6.993006993006993%" y="98%">1750</text>
+      <line x1="6.993006993006993%" y1="0%" x2="6.993006993006993%" y2="100%"/>
+      <text class="GridX" x="24.4755244755244755%" y="98%">1800</text>
+      <line x1="24.4755244755244755%" y1="0%" x2="24.4755244755244755%" y2="100%"/>
+      <text class="GridX" x="41.958041958041958%" y="98%">1850</text>
+      <line x1="41.958041958041958%" y1="0%" x2="41.958041958041958%" y2="100%"/>
+      <text class="GridX" x="59.4405594405594405%" y="98%">1900</text>
+      <line x1="59.4405594405594405%" y1="0%" x2="59.4405594405594405%" y2="100%"/>
+      <text class="GridX" x="76.923076923076923%" y="98%">1950</text>
+      <line x1="76.923076923076923%" y1="0%" x2="76.923076923076923%" y2="100%"/>
+      <text class="GridX" x="94.4055944055944055%" y="98%">2000</text>
+      <line x1="94.4055944055944055%" y1="0%" x2="94.4055944055944055%" y2="100%"/>
+    </g>
+    <g>
+      <text class="GridY" x="98%" y="100%">0</text>
+      <line x1="0%" y1="100%" x2="100%" y2="100%"/>
+      <text class="GridY" x="98%" y="94.444444444444444444%">1</text>
+      <line x1="0%" y1="94.444444444444444444%" x2="100%" y2="94.444444444444444444%"/>
+      <text class="GridY" x="98%" y="88.888888888888888888%">2</text>
+      <line x1="0%" y1="88.888888888888888888%" x2="100%" y2="88.888888888888888888%"/>
+      <text class="GridY" x="98%" y="83.333333333333333332%">3</text>
+      <line x1="0%" y1="83.333333333333333332%" x2="100%" y2="83.333333333333333332%"/>
+      <text class="GridY" x="98%" y="77.777777777777777776%">4</text>
+      <line x1="0%" y1="77.777777777777777776%" x2="100%" y2="77.777777777777777776%"/>
+      <text class="GridY" x="98%" y="72.22222222222222222%">5</text>
+      <line x1="0%" y1="72.22222222222222222%" x2="100%" y2="72.22222222222222222%"/>
+      <text class="GridY" x="98%" y="66.666666666666666664%">6</text>
+      <line x1="0%" y1="66.666666666666666664%" x2="100%" y2="66.666666666666666664%"/>
+      <text class="GridY" x="98%" y="61.111111111111111108%">7</text>
+      <line x1="0%" y1="61.111111111111111108%" x2="100%" y2="61.111111111111111108%"/>
+      <text class="GridY" x="98%" y="55.555555555555555552%">8</text>
+      <line x1="0%" y1="55.555555555555555552%" x2="100%" y2="55.555555555555555552%"/>
+      <text class="GridY" x="98%" y="49.999999999999999996%">9</text>
+      <line x1="0%" y1="49.999999999999999996%" x2="100%" y2="49.999999999999999996%"/>
+      <text class="GridY" x="98%" y="44.44444444444444444%">10</text>
+      <line x1="0%" y1="44.44444444444444444%" x2="100%" y2="44.44444444444444444%"/>
+      <text class="GridY" x="98%" y="38.888888888888888884%">11</text>
+      <line x1="0%" y1="38.888888888888888884%" x2="100%" y2="38.888888888888888884%"/>
+      <text class="GridY" x="98%" y="33.333333333333333328%">12</text>
+      <line x1="0%" y1="33.333333333333333328%" x2="100%" y2="33.333333333333333328%"/>
+      <text class="GridY" x="98%" y="27.777777777777777772%">13</text>
+      <line x1="0%" y1="27.777777777777777772%" x2="100%" y2="27.777777777777777772%"/>
+      <text class="GridY" x="98%" y="22.222222222222222216%">14</text>
+      <line x1="0%" y1="22.222222222222222216%" x2="100%" y2="22.222222222222222216%"/>
+      <text class="GridY" x="98%" y="16.66666666666666666%">15</text>
+      <line x1="0%" y1="16.66666666666666666%" x2="100%" y2="16.66666666666666666%"/>
+      <text class="GridY" x="98%" y="11.111111111111111104%">16</text>
+      <line x1="0%" y1="11.111111111111111104%" x2="100%" y2="11.111111111111111104%"/>
+      <text class="GridY" x="98%" y="5.555555555555555548%">17</text>
+      <line x1="0%" y1="5.555555555555555548%" x2="100%" y2="5.555555555555555548%"/>
+      <text class="GridY" x="98%" y="-0.000000000000000008%">18</text>
+      <line x1="0%" y1="-0.000000000000000008%" x2="100%" y2="-0.000000000000000008%"/>
+      <text class="GridY" x="98%" y="-5.555555555555555564%">19</text>
+      <line x1="0%" y1="-5.555555555555555564%" x2="100%" y2="-5.555555555555555564%"/>
+      <text class="GridY" x="98%" y="-11.11111111111111112%">20</text>
+      <line x1="0%" y1="-11.11111111111111112%" x2="100%" y2="-11.11111111111111112%"/>
+      <text class="GridY" x="98%" y="-16.666666666666666676%">21</text>
+      <line x1="0%" y1="-16.666666666666666676%" x2="100%" y2="-16.666666666666666676%"/>
+      <text class="GridY" x="98%" y="-22.222222222222222232%">22</text>
+      <line x1="0%" y1="-22.222222222222222232%" x2="100%" y2="-22.222222222222222232%"/>
+      <text class="GridY" x="98%" y="-27.777777777777777788%">23</text>
+      <line x1="0%" y1="-27.777777777777777788%" x2="100%" y2="-27.777777777777777788%"/>
+      <text class="GridY" x="98%" y="-33.333333333333333344%">24</text>
+      <line x1="0%" y1="-33.333333333333333344%" x2="100%" y2="-33.333333333333333344%"/>
+      <text class="GridY" x="98%" y="-38.8888888888888889%">25</text>
+      <line x1="0%" y1="-38.8888888888888889%" x2="100%" y2="-38.8888888888888889%"/>
+      <text class="GridY" x="98%" y="-44.444444444444444456%">26</text>
+      <line x1="0%" y1="-44.444444444444444456%" x2="100%" y2="-44.444444444444444456%"/>
+      <text class="GridY" x="98%" y="-50.000000000000000012%">27</text>
+      <line x1="0%" y1="-50.000000000000000012%" x2="100%" y2="-50.000000000000000012%"/>
+      <text class="GridY" x="98%" y="-55.555555555555555568%">28</text>
+      <line x1="0%" y1="-55.555555555555555568%" x2="100%" y2="-55.555555555555555568%"/>
+      <text class="GridY" x="98%" y="-61.111111111111111124%">29</text>
+      <line x1="0%" y1="-61.111111111111111124%" x2="100%" y2="-61.111111111111111124%"/>
+      <text class="GridY" x="98%" y="-66.66666666666666668%">30</text>
+      <line x1="0%" y1="-66.66666666666666668%" x2="100%" y2="-66.66666666666666668%"/>
+      <text class="GridY" x="98%" y="-72.222222222222222236%">31</text>
+      <line x1="0%" y1="-72.222222222222222236%" x2="100%" y2="-72.222222222222222236%"/>
+      <text class="GridY" x="98%" y="-77.777777777777777792%">32</text>
+      <line x1="0%" y1="-77.777777777777777792%" x2="100%" y2="-77.777777777777777792%"/>
+      <text class="GridY" x="98%" y="-83.333333333333333348%">33</text>
+      <line x1="0%" y1="-83.333333333333333348%" x2="100%" y2="-83.333333333333333348%"/>
+      <text class="GridY" x="98%" y="-88.888888888888888904%">34</text>
+      <line x1="0%" y1="-88.888888888888888904%" x2="100%" y2="-88.888888888888888904%"/>
+      <text class="GridY" x="98%" y="-94.44444444444444446%">35</text>
+      <line x1="0%" y1="-94.44444444444444446%" x2="100%" y2="-94.44444444444444446%"/>
+      <text class="GridY" x="98%" y="-100.000000000000000016%">36</text>
+      <line x1="0%" y1="-100.000000000000000016%" x2="100%" y2="-100.000000000000000016%"/>
+    </g>
+  </g>
+  <defs>
+    <g id="Art">
+      <path d="M7.0 0.0 -3.4999999999999982 6.062177826491071 -3.500000000000003 -6.0621778264910695 Z" style="fill:red"/>
+    </g>
+    <g id="Numismatique">
+      <circle r="3" fill="green"/>
+    </g>
+    <g id="Livres">
+      <path d="M7.0 0.0 2.163118960624632 6.657395614066075 -5.663118960624631 4.114496766047313 -5.663118960624632 -4.114496766047311 2.1631189606246304 -6.6573956140660755 Z"/>
+    </g>
+    <g id="Musique">
+      <rect x="-5" y="-5" height="10" width="10" style="fill:magenta"/>
+    </g>
+    <g id="Estampes">
+      <rect x="-5" y="-5" height="10" width="10" style="fill:black"/>
+    </g>
+    <g id="Autographes">
+      <rect x="-5" y="-5" height="10" width="10" style="fill:orange"/>
+    </g>
+    <g id="art">
+      <rect x="-5" y="-5" height="10" width="10" style="fill:aqua"/>
+    </g>
+    <g id="Manuscrits">
+      <rect x="-5" y="-5" height="10" width="10" style="fill:blue"/>
+    </g>
+    <g id="livres">
+      <rect x="-5" y="-5" height="10" width="10" style="fill:yellow"/>
+    </g>
+    <g id="Bruxelles">
+      <rect x="-5" y="-5" height="10" width="10" style="fill:grey"/>
+    </g>
+  </defs>
+  <g>
+    <a href="https://www.google.fr/search?q=1730&amp;Art">
+      <use x="0%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1741&amp;Art">
+      <use x="3.846153846153846%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1743&amp;Art">
+      <use x="4.545454545454545%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1751&amp;Art">
+      <use x="7.3426573426573425%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1755&amp;Art">
+      <use x="8.741258741258742%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1756&amp;Art">
+      <use x="9.09090909090909%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1757&amp;Art">
+      <use x="9.44055944055944%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1758&amp;Art">
+      <use x="9.79020979020979%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1760&amp;Art">
+      <use x="10.489510489510488%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1762&amp;Art">
+      <use x="11.188811188811188%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1765&amp;Art">
+      <use x="12.237762237762237%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1766&amp;Art">
+      <use x="12.587412587412587%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1767&amp;Art">
+      <use x="12.937062937062937%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1768&amp;Art">
+      <use x="13.286713286713287%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1769&amp;Art">
+      <use x="13.636363636363635%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1771&amp;Art">
+      <use x="14.335664335664335%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1772&amp;Art">
+      <use x="14.685314685314685%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1773&amp;Art">
+      <use x="15.034965034965035%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1774&amp;Art">
+      <use x="15.384615384615383%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1775&amp;Art">
+      <use x="15.734265734265733%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1776&amp;Art">
+      <use x="16.083916083916083%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1777&amp;Art">
+      <use x="16.433566433566433%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1778&amp;Art">
+      <use x="16.783216783216783%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1782&amp;Art">
+      <use x="18.18181818181818%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1783&amp;Art">
+      <use x="18.53146853146853%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1785&amp;Art">
+      <use x="19.23076923076923%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1787&amp;Art">
+      <use x="19.93006993006993%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1788&amp;Art">
+      <use x="20.27972027972028%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1796&amp;Art">
+      <use x="23.076923076923077%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1798&amp;Art">
+      <use x="23.776223776223777%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1799&amp;Art">
+      <use x="24.125874125874123%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1807&amp;Art">
+      <use x="26.923076923076923%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1811&amp;Art">
+      <use x="28.32167832167832%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1812&amp;Art">
+      <use x="28.67132867132867%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1815&amp;Art">
+      <use x="29.72027972027972%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1818&amp;Art">
+      <use x="30.769230769230766%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1819&amp;Art">
+      <use x="31.118881118881117%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1820&amp;Art">
+      <use x="31.468531468531467%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1821&amp;Art">
+      <use x="31.818181818181817%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1822&amp;Art">
+      <use x="32.16783216783217%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1823&amp;Art">
+      <use x="32.51748251748251%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1824&amp;Art">
+      <use x="32.86713286713287%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1826&amp;Art">
+      <use x="33.56643356643357%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1829&amp;Art">
+      <use x="34.61538461538461%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1830&amp;Art">
+      <use x="34.96503496503497%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1831&amp;Art">
+      <use x="35.31468531468531%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1833&amp;Art">
+      <use x="36.01398601398601%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1834&amp;Art">
+      <use x="36.36363636363636%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1836&amp;Art">
+      <use x="37.06293706293706%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1837&amp;Art">
+      <use x="37.41258741258741%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1838&amp;Art">
+      <use x="37.76223776223776%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1839&amp;Art">
+      <use x="38.11188811188811%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1840&amp;Art">
+      <use x="38.46153846153846%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1841&amp;Art">
+      <use x="38.811188811188806%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1842&amp;Art">
+      <use x="39.16083916083916%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1843&amp;Art">
+      <use x="39.510489510489506%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1844&amp;Art">
+      <use x="39.86013986013986%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1846&amp;Art">
+      <use x="40.55944055944056%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1847&amp;Art">
+      <use x="40.90909090909091%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1848&amp;Art">
+      <use x="41.25874125874126%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1851&amp;Art">
+      <use x="42.30769230769231%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1852&amp;Art">
+      <use x="42.65734265734265%" y="55.555555555555555552%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1853&amp;Art">
+      <use x="43.00699300699301%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1854&amp;Art">
+      <use x="43.35664335664335%" y="55.555555555555555552%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1855&amp;Art">
+      <use x="43.70629370629371%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1856&amp;Art">
+      <use x="44.05594405594405%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1857&amp;Art">
+      <use x="44.40559440559441%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1858&amp;Art">
+      <use x="44.75524475524475%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1859&amp;Art">
+      <use x="45.1048951048951%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1860&amp;Art">
+      <use x="45.45454545454545%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1861&amp;Art">
+      <use x="45.8041958041958%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1862&amp;Art">
+      <use x="46.15384615384615%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1863&amp;Art">
+      <use x="46.5034965034965%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1864&amp;Art">
+      <use x="46.85314685314685%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1865&amp;Art">
+      <use x="47.2027972027972%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1866&amp;Art">
+      <use x="47.55244755244755%" y="22.222222222222222216%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1867&amp;Art">
+      <use x="47.9020979020979%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1868&amp;Art">
+      <use x="48.251748251748246%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1869&amp;Art">
+      <use x="48.6013986013986%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1870&amp;Art">
+      <use x="48.951048951048946%" y="61.111111111111111108%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1872&amp;Art">
+      <use x="49.650349650349646%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1874&amp;Art">
+      <use x="50.34965034965035%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1875&amp;Art">
+      <use x="50.6993006993007%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1876&amp;Art">
+      <use x="51.04895104895105%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1877&amp;Art">
+      <use x="51.39860139860139%" y="-5.555555555555555564%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1878&amp;Art">
+      <use x="51.74825174825175%" y="33.333333333333333328%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1879&amp;Art">
+      <use x="52.09790209790209%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1880&amp;Art">
+      <use x="52.44755244755245%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1881&amp;Art">
+      <use x="52.79720279720279%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1882&amp;Art">
+      <use x="53.14685314685315%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1883&amp;Art">
+      <use x="53.49650349650349%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1884&amp;Art">
+      <use x="53.84615384615385%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1885&amp;Art">
+      <use x="54.19580419580419%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1886&amp;Art">
+      <use x="54.54545454545454%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1887&amp;Art">
+      <use x="54.89510489510489%" y="61.111111111111111108%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1888&amp;Art">
+      <use x="55.24475524475524%" y="22.222222222222222216%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1889&amp;Art">
+      <use x="55.59440559440559%" y="61.111111111111111108%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1890&amp;Art">
+      <use x="55.94405594405594%" y="33.333333333333333328%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1891&amp;Art">
+      <use x="56.29370629370629%" y="61.111111111111111108%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1892&amp;Art">
+      <use x="56.64335664335664%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1893&amp;Art">
+      <use x="56.99300699300699%" y="33.333333333333333328%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1894&amp;Art">
+      <use x="57.34265734265734%" y="33.333333333333333328%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1895&amp;Art">
+      <use x="57.692307692307686%" y="16.66666666666666666%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1896&amp;Art">
+      <use x="58.04195804195804%" y="-0.000000000000000008%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1897&amp;Art">
+      <use x="58.391608391608386%" y="33.333333333333333328%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1898&amp;Art">
+      <use x="58.74125874125874%" y="27.777777777777777772%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1899&amp;Art">
+      <use x="59.090909090909086%" y="33.333333333333333328%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1900&amp;Art">
+      <use x="59.44055944055944%" y="38.888888888888888884%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1901&amp;Art">
+      <use x="59.790209790209786%" y="33.333333333333333328%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1902&amp;Art">
+      <use x="60.13986013986014%" y="22.222222222222222216%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1903&amp;Art">
+      <use x="60.48951048951049%" y="44.44444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1904&amp;Art">
+      <use x="60.83916083916083%" y="38.888888888888888884%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1905&amp;Art">
+      <use x="61.18881118881119%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1906&amp;Art">
+      <use x="61.53846153846153%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1907&amp;Art">
+      <use x="61.88811188811189%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1908&amp;Art">
+      <use x="62.23776223776223%" y="61.111111111111111108%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1909&amp;Art">
+      <use x="62.58741258741259%" y="16.66666666666666666%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1910&amp;Art">
+      <use x="62.93706293706293%" y="44.44444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1911&amp;Art">
+      <use x="63.28671328671329%" y="16.66666666666666666%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1912&amp;Art">
+      <use x="63.63636363636363%" y="33.333333333333333328%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1913&amp;Art">
+      <use x="63.98601398601398%" y="16.66666666666666666%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1914&amp;Art">
+      <use x="64.33566433566433%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1918&amp;Art">
+      <use x="65.73426573426573%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1921&amp;Art">
+      <use x="66.78321678321679%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1922&amp;Art">
+      <use x="67.13286713286713%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1923&amp;Art">
+      <use x="67.48251748251748%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1924&amp;Art">
+      <use x="67.83216783216783%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1925&amp;Art">
+      <use x="68.18181818181817%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1926&amp;Art">
+      <use x="68.53146853146853%" y="55.555555555555555552%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1927&amp;Art">
+      <use x="68.88111888111888%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1928&amp;Art">
+      <use x="69.23076923076923%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1929&amp;Art">
+      <use x="69.58041958041957%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1930&amp;Art">
+      <use x="69.93006993006993%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1932&amp;Art">
+      <use x="70.62937062937063%" y="55.555555555555555552%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1933&amp;Art">
+      <use x="70.97902097902097%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1934&amp;Art">
+      <use x="71.32867132867132%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1935&amp;Art">
+      <use x="71.67832167832168%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1936&amp;Art">
+      <use x="72.02797202797203%" y="55.555555555555555552%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1937&amp;Art">
+      <use x="72.37762237762237%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1938&amp;Art">
+      <use x="72.72727272727272%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1939&amp;Art">
+      <use x="73.07692307692308%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1940&amp;Art">
+      <use x="73.42657342657343%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1941&amp;Art">
+      <use x="73.77622377622377%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1942&amp;Art">
+      <use x="74.12587412587412%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1943&amp;Art">
+      <use x="74.47552447552447%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1948&amp;Art">
+      <use x="76.22377622377623%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1949&amp;Art">
+      <use x="76.57342657342657%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1950&amp;Art">
+      <use x="76.92307692307692%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1951&amp;Art">
+      <use x="77.27272727272727%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1952&amp;Art">
+      <use x="77.62237762237761%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1953&amp;Art">
+      <use x="77.97202797202797%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1954&amp;Art">
+      <use x="78.32167832167832%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1955&amp;Art">
+      <use x="78.67132867132867%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1956&amp;Art">
+      <use x="79.02097902097901%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1957&amp;Art">
+      <use x="79.37062937062937%" y="55.555555555555555552%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1958&amp;Art">
+      <use x="79.72027972027972%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1959&amp;Art">
+      <use x="80.06993006993007%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1960&amp;Art">
+      <use x="80.41958041958041%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1961&amp;Art">
+      <use x="80.76923076923076%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1962&amp;Art">
+      <use x="81.11888111888112%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1963&amp;Art">
+      <use x="81.46853146853147%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1964&amp;Art">
+      <use x="81.81818181818181%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1965&amp;Art">
+      <use x="82.16783216783216%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1966&amp;Art">
+      <use x="82.51748251748252%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1967&amp;Art">
+      <use x="82.86713286713287%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1968&amp;Art">
+      <use x="83.21678321678321%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1969&amp;Art">
+      <use x="83.56643356643356%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1971&amp;Art">
+      <use x="84.26573426573427%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1972&amp;Art">
+      <use x="84.61538461538461%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1974&amp;Art">
+      <use x="85.3146853146853%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1975&amp;Art">
+      <use x="85.66433566433567%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1976&amp;Art">
+      <use x="86.01398601398601%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1977&amp;Art">
+      <use x="86.36363636363636%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1978&amp;Art">
+      <use x="86.7132867132867%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1979&amp;Art">
+      <use x="87.06293706293705%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1980&amp;Art">
+      <use x="87.41258741258741%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1981&amp;Art">
+      <use x="87.76223776223776%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1982&amp;Art">
+      <use x="88.1118881118881%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1985&amp;Art">
+      <use x="89.16083916083916%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1986&amp;Art">
+      <use x="89.5104895104895%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1987&amp;Art">
+      <use x="89.86013986013985%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1989&amp;Art">
+      <use x="90.55944055944056%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1990&amp;Art">
+      <use x="90.9090909090909%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1991&amp;Art">
+      <use x="91.25874125874125%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1992&amp;Art">
+      <use x="91.6083916083916%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1994&amp;Art">
+      <use x="92.3076923076923%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1996&amp;Art">
+      <use x="93.006993006993%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1997&amp;Art">
+      <use x="93.35664335664335%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1998&amp;Art">
+      <use x="93.7062937062937%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1999&amp;Art">
+      <use x="94.05594405594405%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2000&amp;Art">
+      <use x="94.4055944055944%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2001&amp;Art">
+      <use x="94.75524475524475%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2002&amp;Art">
+      <use x="95.1048951048951%" y="94.444444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2004&amp;Art">
+      <use x="95.8041958041958%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2007&amp;Art">
+      <use x="96.85314685314685%" y="88.888888888888888888%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2008&amp;Art">
+      <use x="97.2027972027972%" y="44.44444444444444444%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2009&amp;Art">
+      <use x="97.55244755244755%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2010&amp;Art">
+      <use x="97.90209790209789%" y="55.555555555555555552%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2011&amp;Art">
+      <use x="98.25174825174825%" y="72.22222222222222222%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2012&amp;Art">
+      <use x="98.6013986013986%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2013&amp;Art">
+      <use x="98.95104895104895%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2014&amp;Art">
+      <use x="99.30069930069929%" y="66.666666666666666664%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2015&amp;Art">
+      <use x="99.65034965034964%" y="83.333333333333333332%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2016&amp;Art">
+      <use x="100%" y="77.777777777777777776%" href="#Art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1730&amp;Numismatique">
+      <use x="0%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1751&amp;Numismatique">
+      <use x="7.3426573426573425%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1755&amp;Numismatique">
+      <use x="8.741258741258742%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1756&amp;Numismatique">
+      <use x="9.09090909090909%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1757&amp;Numismatique">
+      <use x="9.44055944055944%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1758&amp;Numismatique">
+      <use x="9.79020979020979%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1760&amp;Numismatique">
+      <use x="10.489510489510488%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1762&amp;Numismatique">
+      <use x="11.188811188811188%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1765&amp;Numismatique">
+      <use x="12.237762237762237%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1766&amp;Numismatique">
+      <use x="12.587412587412587%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1768&amp;Numismatique">
+      <use x="13.286713286713287%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1769&amp;Numismatique">
+      <use x="13.636363636363635%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1771&amp;Numismatique">
+      <use x="14.335664335664335%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1772&amp;Numismatique">
+      <use x="14.685314685314685%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1773&amp;Numismatique">
+      <use x="15.034965034965035%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1774&amp;Numismatique">
+      <use x="15.384615384615383%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1775&amp;Numismatique">
+      <use x="15.734265734265733%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1776&amp;Numismatique">
+      <use x="16.083916083916083%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1777&amp;Numismatique">
+      <use x="16.433566433566433%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1778&amp;Numismatique">
+      <use x="16.783216783216783%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1782&amp;Numismatique">
+      <use x="18.18181818181818%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1785&amp;Numismatique">
+      <use x="19.23076923076923%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1788&amp;Numismatique">
+      <use x="20.27972027972028%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1798&amp;Numismatique">
+      <use x="23.776223776223777%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1799&amp;Numismatique">
+      <use x="24.125874125874123%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1807&amp;Numismatique">
+      <use x="26.923076923076923%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1815&amp;Numismatique">
+      <use x="29.72027972027972%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1819&amp;Numismatique">
+      <use x="31.118881118881117%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1822&amp;Numismatique">
+      <use x="32.16783216783217%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1823&amp;Numismatique">
+      <use x="32.51748251748251%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1824&amp;Numismatique">
+      <use x="32.86713286713287%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1826&amp;Numismatique">
+      <use x="33.56643356643357%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1829&amp;Numismatique">
+      <use x="34.61538461538461%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1830&amp;Numismatique">
+      <use x="34.96503496503497%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1831&amp;Numismatique">
+      <use x="35.31468531468531%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1834&amp;Numismatique">
+      <use x="36.36363636363636%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1837&amp;Numismatique">
+      <use x="37.41258741258741%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1838&amp;Numismatique">
+      <use x="37.76223776223776%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1839&amp;Numismatique">
+      <use x="38.11188811188811%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1840&amp;Numismatique">
+      <use x="38.46153846153846%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1841&amp;Numismatique">
+      <use x="38.811188811188806%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1842&amp;Numismatique">
+      <use x="39.16083916083916%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1843&amp;Numismatique">
+      <use x="39.510489510489506%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1844&amp;Numismatique">
+      <use x="39.86013986013986%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1846&amp;Numismatique">
+      <use x="40.55944055944056%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1847&amp;Numismatique">
+      <use x="40.90909090909091%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1848&amp;Numismatique">
+      <use x="41.25874125874126%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1850&amp;Numismatique">
+      <use x="41.95804195804195%" y="38.888888888888888884%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1851&amp;Numismatique">
+      <use x="42.30769230769231%" y="38.888888888888888884%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1852&amp;Numismatique">
+      <use x="42.65734265734265%" y="38.888888888888888884%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1853&amp;Numismatique">
+      <use x="43.00699300699301%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1854&amp;Numismatique">
+      <use x="43.35664335664335%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1855&amp;Numismatique">
+      <use x="43.70629370629371%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1856&amp;Numismatique">
+      <use x="44.05594405594405%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1857&amp;Numismatique">
+      <use x="44.40559440559441%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1858&amp;Numismatique">
+      <use x="44.75524475524475%" y="27.777777777777777772%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1859&amp;Numismatique">
+      <use x="45.1048951048951%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1860&amp;Numismatique">
+      <use x="45.45454545454545%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1861&amp;Numismatique">
+      <use x="45.8041958041958%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1862&amp;Numismatique">
+      <use x="46.15384615384615%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1863&amp;Numismatique">
+      <use x="46.5034965034965%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1864&amp;Numismatique">
+      <use x="46.85314685314685%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1865&amp;Numismatique">
+      <use x="47.2027972027972%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1866&amp;Numismatique">
+      <use x="47.55244755244755%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1867&amp;Numismatique">
+      <use x="47.9020979020979%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1868&amp;Numismatique">
+      <use x="48.251748251748246%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1869&amp;Numismatique">
+      <use x="48.6013986013986%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1870&amp;Numismatique">
+      <use x="48.951048951048946%" y="66.666666666666666664%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1873&amp;Numismatique">
+      <use x="50%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1875&amp;Numismatique">
+      <use x="50.6993006993007%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1876&amp;Numismatique">
+      <use x="51.04895104895105%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1877&amp;Numismatique">
+      <use x="51.39860139860139%" y="16.66666666666666666%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1878&amp;Numismatique">
+      <use x="51.74825174825175%" y="38.888888888888888884%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1879&amp;Numismatique">
+      <use x="52.09790209790209%" y="44.44444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1882&amp;Numismatique">
+      <use x="53.14685314685315%" y="5.555555555555555548%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1883&amp;Numismatique">
+      <use x="53.49650349650349%" y="55.555555555555555552%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1884&amp;Numismatique">
+      <use x="53.84615384615385%" y="49.999999999999999996%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1885&amp;Numismatique">
+      <use x="54.19580419580419%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1886&amp;Numismatique">
+      <use x="54.54545454545454%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1887&amp;Numismatique">
+      <use x="54.89510489510489%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1888&amp;Numismatique">
+      <use x="55.24475524475524%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1889&amp;Numismatique">
+      <use x="55.59440559440559%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1890&amp;Numismatique">
+      <use x="55.94405594405594%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1891&amp;Numismatique">
+      <use x="56.29370629370629%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1892&amp;Numismatique">
+      <use x="56.64335664335664%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1893&amp;Numismatique">
+      <use x="56.99300699300699%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1894&amp;Numismatique">
+      <use x="57.34265734265734%" y="66.666666666666666664%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1895&amp;Numismatique">
+      <use x="57.692307692307686%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1896&amp;Numismatique">
+      <use x="58.04195804195804%" y="27.777777777777777772%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1897&amp;Numismatique">
+      <use x="58.391608391608386%" y="66.666666666666666664%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1898&amp;Numismatique">
+      <use x="58.74125874125874%" y="66.666666666666666664%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1899&amp;Numismatique">
+      <use x="59.090909090909086%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1900&amp;Numismatique">
+      <use x="59.44055944055944%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1901&amp;Numismatique">
+      <use x="59.790209790209786%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1902&amp;Numismatique">
+      <use x="60.13986013986014%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1903&amp;Numismatique">
+      <use x="60.48951048951049%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1904&amp;Numismatique">
+      <use x="60.83916083916083%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1905&amp;Numismatique">
+      <use x="61.18881118881119%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1906&amp;Numismatique">
+      <use x="61.53846153846153%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1907&amp;Numismatique">
+      <use x="61.88811188811189%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1908&amp;Numismatique">
+      <use x="62.23776223776223%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1909&amp;Numismatique">
+      <use x="62.58741258741259%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1910&amp;Numismatique">
+      <use x="62.93706293706293%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1911&amp;Numismatique">
+      <use x="63.28671328671329%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1912&amp;Numismatique">
+      <use x="63.63636363636363%" y="49.999999999999999996%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1913&amp;Numismatique">
+      <use x="63.98601398601398%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1914&amp;Numismatique">
+      <use x="64.33566433566433%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1921&amp;Numismatique">
+      <use x="66.78321678321679%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1922&amp;Numismatique">
+      <use x="67.13286713286713%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1923&amp;Numismatique">
+      <use x="67.48251748251748%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1924&amp;Numismatique">
+      <use x="67.83216783216783%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1925&amp;Numismatique">
+      <use x="68.18181818181817%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1926&amp;Numismatique">
+      <use x="68.53146853146853%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1927&amp;Numismatique">
+      <use x="68.88111888111888%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1928&amp;Numismatique">
+      <use x="69.23076923076923%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1929&amp;Numismatique">
+      <use x="69.58041958041957%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1930&amp;Numismatique">
+      <use x="69.93006993006993%" y="66.666666666666666664%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1931&amp;Numismatique">
+      <use x="70.27972027972028%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1932&amp;Numismatique">
+      <use x="70.62937062937063%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1933&amp;Numismatique">
+      <use x="70.97902097902097%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1934&amp;Numismatique">
+      <use x="71.32867132867132%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1935&amp;Numismatique">
+      <use x="71.67832167832168%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1936&amp;Numismatique">
+      <use x="72.02797202797203%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1937&amp;Numismatique">
+      <use x="72.37762237762237%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1938&amp;Numismatique">
+      <use x="72.72727272727272%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1939&amp;Numismatique">
+      <use x="73.07692307692308%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1940&amp;Numismatique">
+      <use x="73.42657342657343%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1948&amp;Numismatique">
+      <use x="76.22377622377623%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1949&amp;Numismatique">
+      <use x="76.57342657342657%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1950&amp;Numismatique">
+      <use x="76.92307692307692%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1952&amp;Numismatique">
+      <use x="77.62237762237761%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1957&amp;Numismatique">
+      <use x="79.37062937062937%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1958&amp;Numismatique">
+      <use x="79.72027972027972%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1959&amp;Numismatique">
+      <use x="80.06993006993007%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1960&amp;Numismatique">
+      <use x="80.41958041958041%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1961&amp;Numismatique">
+      <use x="80.76923076923076%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1962&amp;Numismatique">
+      <use x="81.11888111888112%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1963&amp;Numismatique">
+      <use x="81.46853146853147%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1964&amp;Numismatique">
+      <use x="81.81818181818181%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1966&amp;Numismatique">
+      <use x="82.51748251748252%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1967&amp;Numismatique">
+      <use x="82.86713286713287%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1968&amp;Numismatique">
+      <use x="83.21678321678321%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1969&amp;Numismatique">
+      <use x="83.56643356643356%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1970&amp;Numismatique">
+      <use x="83.9160839160839%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1971&amp;Numismatique">
+      <use x="84.26573426573427%" y="72.22222222222222222%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1972&amp;Numismatique">
+      <use x="84.61538461538461%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1973&amp;Numismatique">
+      <use x="84.96503496503496%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1974&amp;Numismatique">
+      <use x="85.3146853146853%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1975&amp;Numismatique">
+      <use x="85.66433566433567%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1976&amp;Numismatique">
+      <use x="86.01398601398601%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1977&amp;Numismatique">
+      <use x="86.36363636363636%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1978&amp;Numismatique">
+      <use x="86.7132867132867%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1979&amp;Numismatique">
+      <use x="87.06293706293705%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1980&amp;Numismatique">
+      <use x="87.41258741258741%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1986&amp;Numismatique">
+      <use x="89.5104895104895%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1988&amp;Numismatique">
+      <use x="90.2097902097902%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1989&amp;Numismatique">
+      <use x="90.55944055944056%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1991&amp;Numismatique">
+      <use x="91.25874125874125%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1993&amp;Numismatique">
+      <use x="91.95804195804196%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1994&amp;Numismatique">
+      <use x="92.3076923076923%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1995&amp;Numismatique">
+      <use x="92.65734265734265%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1996&amp;Numismatique">
+      <use x="93.006993006993%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1997&amp;Numismatique">
+      <use x="93.35664335664335%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1998&amp;Numismatique">
+      <use x="93.7062937062937%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1999&amp;Numismatique">
+      <use x="94.05594405594405%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2000&amp;Numismatique">
+      <use x="94.4055944055944%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2001&amp;Numismatique">
+      <use x="94.75524475524475%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2002&amp;Numismatique">
+      <use x="95.1048951048951%" y="61.111111111111111108%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2003&amp;Numismatique">
+      <use x="95.45454545454545%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2004&amp;Numismatique">
+      <use x="95.8041958041958%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2005&amp;Numismatique">
+      <use x="96.15384615384615%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2006&amp;Numismatique">
+      <use x="96.50349650349649%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2007&amp;Numismatique">
+      <use x="96.85314685314685%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2008&amp;Numismatique">
+      <use x="97.2027972027972%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2009&amp;Numismatique">
+      <use x="97.55244755244755%" y="77.777777777777777776%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2010&amp;Numismatique">
+      <use x="97.90209790209789%" y="83.333333333333333332%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2011&amp;Numismatique">
+      <use x="98.25174825174825%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2012&amp;Numismatique">
+      <use x="98.6013986013986%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2013&amp;Numismatique">
+      <use x="98.95104895104895%" y="88.888888888888888888%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=2015&amp;Numismatique">
+      <use x="99.65034965034964%" y="94.444444444444444444%" href="#Numismatique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1767&amp;Livres">
+      <use x="12.937062937062937%" y="77.777777777777777776%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1772&amp;Livres">
+      <use x="14.685314685314685%" y="94.444444444444444444%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1777&amp;Livres">
+      <use x="16.433566433566433%" y="94.444444444444444444%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1830&amp;Livres">
+      <use x="34.96503496503497%" y="94.444444444444444444%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1848&amp;Livres">
+      <use x="41.25874125874126%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1852&amp;Livres">
+      <use x="42.65734265734265%" y="94.444444444444444444%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1866&amp;Livres">
+      <use x="47.55244755244755%" y="83.333333333333333332%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1870&amp;Livres">
+      <use x="48.951048951048946%" y="83.333333333333333332%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1872&amp;Livres">
+      <use x="49.650349650349646%" y="66.666666666666666664%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1875&amp;Livres">
+      <use x="50.6993006993007%" y="94.444444444444444444%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1879&amp;Livres">
+      <use x="52.09790209790209%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1880&amp;Livres">
+      <use x="52.44755244755245%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1882&amp;Livres">
+      <use x="53.14685314685315%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1890&amp;Livres">
+      <use x="55.94405594405594%" y="94.444444444444444444%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1891&amp;Livres">
+      <use x="56.29370629370629%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1893&amp;Livres">
+      <use x="56.99300699300699%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1894&amp;Livres">
+      <use x="57.34265734265734%" y="66.666666666666666664%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1895&amp;Livres">
+      <use x="57.692307692307686%" y="72.22222222222222222%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1901&amp;Livres">
+      <use x="59.790209790209786%" y="94.444444444444444444%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1902&amp;Livres">
+      <use x="60.13986013986014%" y="77.777777777777777776%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1908&amp;Livres">
+      <use x="62.23776223776223%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1909&amp;Livres">
+      <use x="62.58741258741259%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1910&amp;Livres">
+      <use x="62.93706293706293%" y="83.333333333333333332%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1922&amp;Livres">
+      <use x="67.13286713286713%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1923&amp;Livres">
+      <use x="67.48251748251748%" y="88.888888888888888888%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1934&amp;Livres">
+      <use x="71.32867132867132%" y="83.333333333333333332%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1965&amp;Livres">
+      <use x="82.16783216783216%" y="94.444444444444444444%" href="#Livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1877&amp;Musique">
+      <use x="51.39860139860139%" y="88.888888888888888888%" href="#Musique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1888&amp;Musique">
+      <use x="55.24475524475524%" y="88.888888888888888888%" href="#Musique"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1836&amp;Estampes">
+      <use x="37.06293706293706%" y="94.444444444444444444%" href="#Estampes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1847&amp;Estampes">
+      <use x="40.90909090909091%" y="94.444444444444444444%" href="#Estampes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1888&amp;Estampes">
+      <use x="55.24475524475524%" y="77.777777777777777776%" href="#Estampes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1895&amp;Estampes">
+      <use x="57.692307692307686%" y="94.444444444444444444%" href="#Estampes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1913&amp;Estampes">
+      <use x="63.98601398601398%" y="77.777777777777777776%" href="#Estampes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1875&amp;Autographes">
+      <use x="50.6993006993007%" y="94.444444444444444444%" href="#Autographes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1890&amp;Autographes">
+      <use x="55.94405594405594%" y="94.444444444444444444%" href="#Autographes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1901&amp;Autographes">
+      <use x="59.790209790209786%" y="94.444444444444444444%" href="#Autographes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1909&amp;Autographes">
+      <use x="62.58741258741259%" y="94.444444444444444444%" href="#Autographes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1910&amp;Autographes">
+      <use x="62.93706293706293%" y="88.888888888888888888%" href="#Autographes"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1889&amp;art">
+      <use x="55.59440559440559%" y="94.444444444444444444%" href="#art"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1901&amp;Manuscrits">
+      <use x="59.790209790209786%" y="94.444444444444444444%" href="#Manuscrits"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1934&amp;Manuscrits">
+      <use x="71.32867132867132%" y="94.444444444444444444%" href="#Manuscrits"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1882&amp;livres">
+      <use x="53.14685314685315%" y="88.888888888888888888%" href="#livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1903&amp;livres">
+      <use x="60.48951048951049%" y="88.888888888888888888%" href="#livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1922&amp;livres">
+      <use x="67.13286713286713%" y="94.444444444444444444%" href="#livres"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1891&amp;Bruxelles">
+      <use x="56.29370629370629%" y="94.444444444444444444%" href="#Bruxelles"/>
+    </a>
+    <a href="https://www.google.fr/search?q=1893&amp;Bruxelles">
+      <use x="56.99300699300699%" y="94.444444444444444444%" href="#Bruxelles"/>
+    </a>
+  </g>
+  <g class="legend">
+    <rect x="0%" y="0%" width="20%" height="25%"/>
+    <text x="1%" y="2.5%">Frise Chronologique en fonction des type de vente</text>
+    <use x="1%" y="6.5%" href="#Art"/>
+    <text x="3%" y="6.5%">Art</text>
+    <use x="1%" y="8%" href="#Numismatique"/>
+    <text x="3%" y="8%">Numismatique</text>
+    <use x="1%" y="9.5%" href="#Livres"/>
+    <text x="3%" y="9.5%">Livres</text>
+    <use x="1%" y="11%" href="#Musique"/>
+    <text x="3%" y="11%">Musique</text>
+    <use x="1%" y="12.5%" href="#Estampes"/>
+    <text x="3%" y="12.5%">Estampes</text>
+    <use x="1%" y="14%" href="#Autographes"/>
+    <text x="3%" y="14%">Autographes</text>
+    <use x="1%" y="15.5%" href="#art"/>
+    <text x="3%" y="15.5%">art</text>
+    <use x="1%" y="17%" href="#Manuscrits"/>
+    <text x="3%" y="17%">Manuscrits</text>
+    <use x="1%" y="18.5%" href="#livres"/>
+    <text x="3%" y="18.5%">livres</text>
+    <use x="1%" y="20%" href="#Bruxelles"/>
+    <text x="3%" y="20%">Bruxelles</text>
+  </g>
+</svg>

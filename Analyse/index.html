@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <section>
+        <button  onClick="test1()">&#5130;</button>
+        <button  onClick="test()">&#5125;</button>
+        <div id="text"></div>
+    </section>
+</body>
+<style>
+   
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+    
+    body{
+         background-image: url("GraphResoRamo.svg");
+         background-repeat: no-repeat;
+         font-family: 'Secular One', sans-serif;
+         border: ;
+         
+         
+    }
+    section{
+        position: absolute;
+        background-color: black;
+        opacity: 0.9;
+        right: 0px;
+        bottom: 0px;
+        height: 30vh;
+        width: 40vw;
+        color: white;
+        padding: 20px;
+        margin: 20px;
+    }
+h1{
+        margin-block-start: 2px;
+        margin-block-end: 2px;
+}
+   p{
+       text-indent: 50px;
+       text-align: justify;
+       text-justify: distribute;
+   }
+   button{
+       background-color: transparent;
+      
+       color: white;
+   }
+   a{
+       color: white;
+       border-bottom: white 1px solid;
+   }
+  
+   li{
+       text-indent: 50px;
+      
+   }
+                  
+</style>
+<script>
+    
+    var xobj = new XMLHttpRequest();
+                xobj.overrideMimeType("application/json");
+                xobj.open('GET', 'data.json', true); // Replace 'my_data' with the path to your file
+                xobj.onreadystatechange = function () {
+                    if (xobj.readyState == 4 && xobj.status == "200") {
+                        // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                        return JSON.parse(xobj.responseText);
+                    }
+                };
+                xobj.send(null);
+    
+    var index=0
+
+    
+    function loaddata(index){
+        data = JSON.parse(xobj.responseText)["data"][index-1]
+        document.body.style.backgroundSize=data["zoom"]
+        document.body.style.backgroundPosition = data["position"]
+        document.getElementById('text').innerHTML= data["html"]
+    }
+    function test() {
+           try {
+            index += 1;
+          
+            loaddata(index)
+        }
+        catch {
+            index = index - 1;
+            
+        }
+
+    }
+        
+        function test1() {
+            try{
+                index = index - 1;
+                loaddata(index)
+            }
+            catch{
+                index +=1
+               
+            }  
+
+            }
+ 
+
+</script>
+</html>
