@@ -1,8 +1,8 @@
 import module namespace graph= 'http://basex.org/modules/graph' at '../Module/Graph.xqm';
 
 
-let $bnf := doc('../../FouilleData/Exp2/output.xml')//bnf//record//datafield[@tag='101']//subfield[@code='a']/text()
-let $inha := doc('../../FouilleData/Exp2/output.xml')//inha//record//datafield[@tag='101']//subfield[@code='a']/text()
+let $bnf := doc('../../FouilleData/Exp1/output.xml')//bnf//record//datafield[@tag='101']//subfield[@code='a']/text()
+let $inha := doc('../../FouilleData/Exp1/output.xml')//inha//record//datafield[@tag='101']//subfield[@code='a']/text()
 let $all := ($bnf,$inha)
 let $bnfNUM := doc('../../FouilleData/Exp1/output.xml')//datafield[@tag='101']//subfield[@code='a']/text()
  
