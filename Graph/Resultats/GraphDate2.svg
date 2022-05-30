@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-  <style>line{stroke:black}.legend rect{fill:white;opacity:0.8}</style>
+  <style>line{stroke:black}.legend rect{fill:white;opacity:0.8}
+  line:nth-child(3n){stroke:grey;stroke-width:3px}</style>
   <g>
     <g>
       <text class="GridX" x="6.993006993006993%" y="98%">1750</text>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tag id="106">
+    <code id="a">
+        <position start="1" end="1" 
+            d="impression en gros caractère"
+            r="impression normale">
+            <e>journal </e>
+            <f>caractères Braille ou Moon</f>
+            <g>micro-impression</g>
+            <h>manuscrit</h>
+            <i>multimédia multisupport</i>
+            <j>impression en réduction</j>
+            <r>impression normale</r>
+            <s>ressource électronique</s>
+            <t>microforme</t>
+            <z>autres formes de présentation</z>
+        </position>
+    </code>
+</tag>

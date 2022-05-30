@@ -30,7 +30,7 @@ declare function graph:RegularVertex($nbv as xs:decimal ,$r as xs:decimal,$x as 
  : @param   $x vertical position of the center
  : @praam   $y horizontal vertical position of the center
  :)
-declare function graph:NonRegularVertex($sqv,$r,$x,$y){
+declare function graph:NonRegularVertex($sqv,$r as xs:decimal ,$x as xs:decimal,$y as xs:decimal){
   let $nbv := count($sqv)
   for $i in 0 to $nbv - 1
    let $p := ($r * number($sqv[$i+1])) div 100
@@ -48,7 +48,7 @@ declare function graph:NonRegularVertex($sqv,$r,$x,$y){
  : @param   $class 
  : @param   $id
  :)
-declare function graph:Vertex2SVG($sqv,$class,$id){
+declare function graph:Vertex2SVG($sqv ,$class as xs:string,$id as xs:string){
   <path class="{$class}" id="{$id}" d="{concat('M ',string-join( string-join( for $i in $sqv let $a := (array:get($i,1),' ', array:get($i,2),' ')return string-join($a))),' Z')}"/>
 };
 
@@ -65,7 +65,7 @@ declare function graph:Vertex2SVG($sqv,$class,$id){
  : @param   $x vertical position of the center
  : @praam   $y position of center horizontal axe
  :)
-declare function graph:SpiderChart($data,$r as xs:decimal ,$step as xs:decimal ,$x as xs:decimal,$y as xs:decimal,$title as xs:string){
+declare function graph:SpiderChart($data as array(map(xs:string, item())),$r as xs:decimal ,$step as xs:decimal ,$x as xs:decimal,$y as xs:decimal,$title as xs:string){
   let $keys :=map:keys(map:find($data(1),'data')(1))
   let $nbv := count($keys)
   
@@ -90,6 +90,7 @@ declare function graph:SpiderChart($data,$r as xs:decimal ,$step as xs:decimal ,
    }}
    
    </style>
+
    <g class='back'>
    {for $i in 1 to 100
    let $ut := $r div 100   
@@ -136,9 +137,10 @@ declare function graph:SpiderChart($data,$r as xs:decimal ,$step as xs:decimal ,
  : @param   $array composed map('label': xs:string,'data': sequence of data ,'x': xs:integer, 'color':: ref of color module)
  : @param   $title title of graph 
  :)
-declare function graph:GraphBar($array ,$title as xs:string){
+declare function graph:GraphBar($array as array(map(xs:string, item()*)),$title as xs:string){
 <svg xmlns="http://www.w3.org/2000/svg" width= "100%" height="100%"> 
  (:CSS style:) 
+
 <style>
   .pie:hover text {{
     fill:goldenrod;
@@ -183,13 +185,14 @@ declare function graph:GraphBar($array ,$title as xs:string){
  : @praam   $y position of center horizontal axe
  :)
 
-declare function graph:GraphCircularNetwork($node,$link,$r as xs:decimal,$x as xs:decimal,$y as xs:decimal){
+declare function graph:GraphCircularNetwork($node,$link as array(map(xs:string, xs:string)),$r as xs:decimal,$x as xs:decimal,$y as xs:decimal){
 
 let $v := graph:RegularVertex(count($node),$r,$x,$y)
 let $vl := graph:RegularVertex(count($node),$r+30,$x,$y)
 return 
 
-<svg xmlns="http://www.w3.org/2000/svg" width= "100%" height="100%"> 
+<svg xmlns="http://www.w3.org/2000/svg" width= "100%" height="100%">
+
 <style>
 path{{
   stroke:black ;
@@ -261,7 +264,7 @@ declare function graph:Grid($option as map(*))
  : @praam   $title  position of center horizontal axe
  :)
 
-declare function graph:PointChart($data,$minmaxX as item()*,$minmaxY as item()*,$stepX as xs:integer,$stepY as xs:integer,$title as xs:string){
+declare function graph:PointChart($data as array(map(xs:string, item()*)),$minmaxX as item()*,$minmaxY as item()*,$stepX as xs:integer,$stepY as xs:integer,$title as xs:string){
   let $dataItem := array:flatten(array:for-each( $data,function ($i) {$i('data')}))
   let $maxX := if($minmaxX[2]='auto')then(xs:integer(max($dataItem)[1]))else(xs:integer($minmaxX[2]))
 let $minX := if($minmaxX[1]='auto')then(xs:integer(min($dataItem)[1]))else(xs:integer($minmaxX[1]))
@@ -274,7 +277,7 @@ let $utY :=  100 div $ecY
 let $opt := map{'maxX':$maxX,'minX':$minX,'ecX':$ecX,'utX':$utX,'ecY':$ecY,'utY':$utY,'maxY':$maxY,'minY':$minY,"stepX":$stepX,"stepY":$stepY}
 return
 
-<svg xmlns="http://www.w3.org/2000/svg" width= "100%" height="100%"> 
+<svg xmlns="http://www.w3.org/2000/svg" width= "100%" height="100%">
 <style>line{{stroke:black}}.legend rect{{fill:white;opacity:0.8}}</style>
 {graph:Grid($opt)}
 <defs>{array:for-each( $data,function ($value) {<g id="{$value('label')}">{$value('svg')}</g>})}</defs>
@@ -306,4 +309,13 @@ array:for-each( $data,function ($value) {
   <text x="3%" y="{$y}%">{$value('label')}</text>)})}</g>
 </svg>
 
+};
+
+declare function graph:PiePath($p1,$p2,$r,$x,$y)
+{
+  let $v1 := $p1 * (2*math:pi()) div 100
+  let $v2 := $p2 * (2*math:pi()) div 100
+  let $va := $v2 - $v1
+  let $i := ($v1,$va,$v2)
+  return <path d="M {$y} {$x} {$y+($r * math:sin($i[1]))} {$x+($r * math:cos($i[1]))} Q {$y+($r * math:sin($i[2]))} {$x+($r * math:cos($i[2]))} {$y+($r * math:sin($i[2]))} {$x+($r * math:cos($i[3]))} Z"/>
 };

@@ -19,10 +19,10 @@ let $inha := doc('../../FouilleData/Exp1/output.xml')/inha//record//datafield[@t
 let $all := ($bnf,$inha)
 
 return graph:PointChart(array{
-  map{'data':local:GetListItem($bnf),'svg':<circle xmlns="http://www.w3.org/2000/svg" r="3" fill="red"/>,'label':'Bnf'},
-  map{'data':local:GetListItem($inha),'svg':<circle xmlns="http://www.w3.org/2000/svg" r="3" fill="green"/>,'label':'G'},
+  map{'data':local:GetListItem($bnf),'svg':<circle xmlns="http://www.w3.org/2000/svg" r="3" fill="red"/>,'label':'EXP1 Bnf'},
+  map{'data':local:GetListItem($inha),'svg':<circle xmlns="http://www.w3.org/2000/svg" r="3" fill="green"/>,'label':'EXP1 INHA'},
   map{'data':local:GetListItem($all),'svg':<path xmlns="http://www.w3.org/2000/svg" d="
-M15.0 0.0 4.635254915624212 14.265847744427303 -12.13525491562421 8.816778784387099 -12.135254915624213 -8.816778784387095 4.635254915624208 -14.265847744427305 Z"/>,'label':'F'},
+M15.0 0.0 4.635254915624212 14.265847744427303 -12.13525491562421 8.816778784387099 -12.135254915624213 -8.816778784387095 4.635254915624208 -14.265847744427305 Z"/>,'label':'EX1 Bnf+INHA'},
   map{'data':local:GetListItem($bnfNUM),'svg':<rect xmlns="http://www.w3.org/2000/svg" x="-5" y='-5' height="10" width="10" style="fill:magenta"/>,'label':'bnfNUM'}},
-  ('2000','2020'),('0','auto'),1,100,'Je suis un titre')
+  ('2000','2020'),('0','auto'),1,100,'Frise Chronologique en fonction des Corpus')
 
